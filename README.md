@@ -71,7 +71,7 @@ Sprint 🎯 | Previsão | Status|
 |1️⃣| 03/10/2025| A fazer |
 |2️⃣| 24/10/2025 | A fazer |
 |3️⃣| 14/11/2025 | A fazer |
-|Feira de Soluções|29/06/2025 | A fazer |
+|Feira de Soluções| 04/12/2025 | A fazer |
 
 <br>
 
