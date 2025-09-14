@@ -165,11 +165,6 @@ Sprint 🎯 | Previsão | Status|
 <br>
 
 ## MVP 📊
-O MVP deste projeto consiste.
-
-**1° Sprint 🎯**
-
-[![sprint]()
 
 <br>
 
