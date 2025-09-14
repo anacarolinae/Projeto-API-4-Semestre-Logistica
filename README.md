@@ -16,50 +16,39 @@
 </br>
 
 ## Objetivo do Projeto 📌
+Desenvolver uma **plataforma de Business Intelligence (BI)** para disponibilizar informações sobre a **eficiência portuária**, com base nos tempos de processamento nos portos brasileiros e dados estatísticos da ANTAQ.  
 
-Este projeto tem como objetivo.
+O sistema deve permitir analisar e comparar a **produtividade dos terminais portuários**, identificar **principais motivos de paradas**, avaliar **tempos de operação** e fornecer **insights visuais interativos** para apoiar a tomada de decisão.
 
-### Principais Análises 🔍 
-✅ 
 
-O projeto visa fornecer.
+## Principais Análises 🔍
+✅ **Eficiência dos terminais portuários** – produtividade comparativa entre terminais com base em infraestrutura instalada e carga movimentada  
+✅ **Avaliação dos tempos de operação** – identificar portos com maior tempo de espera e mais ágeis na operação  
+✅ **Paradas portuárias** – levantar os Top N motivos de paradas e suas variações ao longo do ano  
+✅ **Movimentação** – principais portos em termos de quantidade transportada e número de operações mensais  
+✅ **Cargas movimentadas** – principais tipos de carga movimentados  
 
-> **Status do Projeto: Em andamento**
 
-<br> 
-  
-## Visão do Produto 💡
+## Visão do Produto 💡 
+- Permitir segmentação por terminal, com ranking por eficiência e evolução da quantidade transportada por mês  
+- Disponibilizar filtros e buscas personalizadas para análises específicas  
+- Oferecer painel de estatísticas com visualização gráfica interativa dos tempos de operação, movimentações e paradas portuárias  
 
-Como **user story**.
-Como **analista de dados**.
+O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta a ser apresentada à comunidade acadêmica e possivelmente disponibilizada para uso público.
 
-Como **responsável pela otimização de processos**.
+## Metodologia 📚 
+- Utilização de **Scrum** para organização do trabalho em **Sprints**  
+- Definição do **MVP** priorizando atividades de maior valor para o cliente  
+- Elaboração do **Backlog do Produto** e divisão em Backlogs de Sprint  
+- Estimativa de tempo e distribuição otimizada das atividades entre os desenvolvedores  
+- Registro adequado de **DoR** (Definition of Ready) e **DoD** (Definition of Done)  
 
-<br>
-
-## Metodologia 📚
-
-No desenvolvimento do produto, utilizamos a **metodologia ágil Scrum**. Um dos principais aspectos dessa abordagem é a organização do trabalho em **Sprints**.
-
-Para definir as entregas de cada Sprint, começamos pela definição do **MVP** (Produto Mínimo Viável), priorizando as atividades que gerariam mais valor para o cliente. A partir dessas tarefas, elaboramos o Backlog do Produto, que, após aprovação do cliente, foi dividido em quatro **Backlogs de Sprint**.
-
-Com as tarefas já estruturadas, estimamos o tempo necessário para sua execução e distribuímos as atividades de maneira otimizada entre os desenvolvedores, garantindo maior eficiência no desenvolvimento.
-
-<br>
-
-## Tecnologias Utilizadas 🚀
-
-> Slack
-
-> Power BI
-
-> Excel
-
-> GitHub
-
-> Power Point
-
-> Python
+## Tecnologias Utilizadas 🚀 
+- **Google Colab** para normalização, limpeza e análise inicial dos dados (RN.P.1)  
+- **Python 3+** e **DAX** para desenvolvimento do back-end (RN.P.2)  
+- **Power BI** para desenvolvimento do front-end (RN.P.3)  
+- **GitHub** para controle de versão dos artefatos de projeto (RN.P.4)  
+- **Interface responsiva e intuitiva** (RN.P.5 e RN.P.6)  
 
 <br>
 
@@ -195,25 +184,3 @@ O MVP deste projeto consiste.
 |  Team Member  | Bianca  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()      |
 
 <br>
-
-## O que se espera ao final da API 🎯
-
-### Competências desenvolvidas ✅ 
-
-**Custos Logísticos** 📦
-- 
-
-**Produtividade Aplicada** ⚙️
-- 
-
-**Modelagem de Problemas** 📊
-- 
-
-**Programação com Python/ Solver** 💻
-- 
-
-**Tecnologias de Dados** 🧠
-- 
-  - Organizar  
-  - Armazenar
-  - Apresentar dados e suas características
