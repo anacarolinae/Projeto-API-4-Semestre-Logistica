@@ -57,8 +57,8 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 
 Sprint 🎯 | Previsão | Status|
 |------|--------|------|
-|Kick Off | 12/09/2025 | Em andamento |
-|1️⃣| 03/10/2025| A fazer |
+|Kick Off | 12/09/2025 | Concluído ✅ |
+|1️⃣| 03/10/2025| Em andamento |
 |2️⃣| 24/10/2025 | A fazer |
 |3️⃣| 14/11/2025 | A fazer |
 |Feira de Soluções| 04/12/2025 | A fazer |
