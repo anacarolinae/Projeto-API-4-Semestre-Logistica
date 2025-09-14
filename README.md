@@ -126,9 +126,53 @@ Sprint 🎯 | Previsão | Status|
 
 ## Backlog da Sprint 📋
 
-### Sprint 1 🎯
-- [x] Estruturação do GitHub;
-      
+### Sprint 1 🎯 
+- [ ] Acessar e baixar dados da ANTAQ via Colab para iniciar tratamento e análise
+- [ ] Normalizar e limpar a base (remover duplicados e nulos) para manter consistência
+- [ ] Calcular tempos médios de operação portuária para avaliar eficiência
+- [ ] Construir o primeiro dashboard no Power BI para visão geral de portos, cargas e operações
+- [ ] Implementar filtros avançados (período, tipo de carga) para análises personalizadas
+- [ ] Criar painéis interativos com ranking de eficiência dos portos para identificar portos mais produtivos
+- [ ] Testar dashboards em diferentes resoluções de tela para identificar ajustes de responsividade
+- [ ] Ajustar layouts do Power BI para versão mobile para que usuários possam acessar via celular
+- [ ] Validar dashboards em notebook, tablet e celular para garantir boa visualização para stakeholders
+- [ ] Acompanhar tempo médio de operação por porto para identificar gargalos e otimizar processos
+- [ ] Comparar desempenho mensal de cada porto para ajustar alocação de recursos
+
+### Sprint 2 🎯
+- [ ] Analisar tendências de carga ao longo do ano para planejar investimentos estratégicos
+- [ ] Ter dashboards com visão geral de portos, cargas e operações para monitorar performance do sistema
+- [ ] Priorizar indicadores de eficiência para orientar decisões gerenciais
+- [ ] Identificar operações com maior tempo de espera para reduzir atrasos e custos
+- [ ] Detalhar metodologia utilizada para documentar processos e decisões
+- [ ] Registrar glossário de variáveis para facilitar entendimento de dados
+- [ ] Registrar análises exploratórias em relatório para manter histórico completo
+- [ ] Preparar anexos com código e prints dos dashboards para documentação detalhada
+- [ ] Criar repositório no GitHub para controlar versões de scripts e datasets
+- [ ] Definir branches (main/dev) para organizar contribuições e desenvolvimento
+- [ ] Atualizar repositório com scripts limpos e documentados para manter histórico organizado
+- [ ] Criar issues no Jira para feedback do cliente para rastrear pendências e melhorias
+- [ ] Revisar repositório e organizar releases finais para entrega oficial
+
+### Sprint 3 🎯
+- [ ] Fechar issues e documentar histórico do Jira para controle da equipe
+- [ ] Criar template no Canva/PowerPoint para padronizar comunicações do grupo
+- [ ] Preparar slides de apresentação inicial para a primeira reunião de acompanhamento
+- [ ] Montar slides com os primeiros gráficos para facilitar entendimento do cliente
+- [ ] Criar storyboard para a feira para planejar comunicação final
+- [ ] Criar slides finais para a feira de soluções para apresentação oficial
+- [ ] Ensaiar storytelling com o time para garantir impacto na banca
+- [ ] Preparar roteiro de navegação em diferentes dispositivos para demonstrar responsividade
+- [ ] Calcular métricas-chave de desempenho para auxiliar decisões estratégicas
+- [ ] Visualizar evolução de indicadores ao longo do tempo para identificar tendências
+- [ ] Criar painéis comparativos com outros portos e operações para apoiar decisões gerenciais
+- [ ] Revisar dashboards finais para garantir que atendam às necessidades dos clientes
+- [ ] Coletar feedback em apresentação de dashboard para ajustar detalhes antes da entrega final
+- [ ] Finalizar relatórios técnicos com análises e dashboards para entregar à banca
+- [ ] Registrar insights estratégicos obtidos nos dashboards para apoiar decisões futuras
+- [ ] Acompanhar ensaios de apresentação para garantir que o time esteja preparado
+- [ ] Planejar retrospectiva final para aprendizado do time e melhorias do processo
+
 <br>
 
 ## MVP 📊
