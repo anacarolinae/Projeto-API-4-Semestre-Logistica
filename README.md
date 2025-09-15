@@ -165,7 +165,7 @@ Sprint 🎯 | Previsão | Status|
 
 <br>
 
-[![Acessar Jira](https://img.shields.io/badge/Acessar-Jira-blue?style=for-the-badge&logo=jira&logoColor=white)](https://seu-jira-url.com)
+[![Acessar Jira](https://img.shields.io/badge/Acessar-Jira-blue?style=for-the-badge&logo=jira&logoColor=white)]()
 
 <br>
 
