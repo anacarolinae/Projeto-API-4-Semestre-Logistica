@@ -165,7 +165,7 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 
 <br>
 
-[![Acessar Jira](https://img.shields.io/badge/Acessar-Jira-blue?style=for-the-badge&logo=jira&logoColor=white)]()
+[![Acessar Jira](https://img.shields.io/badge/Acessar-Jira-blue?style=for-the-badge&logo=jira&logoColor=white)](https://biancatrevisan34.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
 <br>
 
