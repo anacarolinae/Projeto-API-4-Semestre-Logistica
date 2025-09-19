@@ -63,7 +63,7 @@ O escopo inicial inclui a implementação da integração com a ANTAQ, normaliza
 | US12 | Como diretor de logística, quero analisar tendências de carga ao longo do ano, para planejar investimentos estratégicos. | Alta       | 5 pontos   |
 
 
-## 📅 Sprint(s) Relacionadas
+## 📅 Sprints Relacionadas
 
 | Sprint | Entregas Principais                                               | Status      |
 |--------|--------------------------------------------------------------------|-------------|
