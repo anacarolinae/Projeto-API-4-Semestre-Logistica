@@ -1,4 +1,4 @@
-#  MVP - Sprint 1📌
+#  MVP - Sprint 1 📌
 
 ## Objetivo do MVP 🎯
 
