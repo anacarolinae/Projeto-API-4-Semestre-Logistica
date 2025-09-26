@@ -61,7 +61,7 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 |1️⃣| 03/10/2025| Em andamento | [MVP](MVP/sp1.md) |
 |2️⃣| 24/10/2025 | A fazer | [MVP](MVP/sp1.md) |
 |3️⃣| 14/11/2025 | A fazer | [MVP](MVP/sp1.md) |
-|Feira de Soluções| 04/12/2025 | A fazer | [MVP](#) |
+|:rocket: Feira de Soluções| 04/12/2025 | A fazer | [MVP](#) |
 
 <br>
 
