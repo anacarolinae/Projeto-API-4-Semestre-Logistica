@@ -141,29 +141,6 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 
 <br>
 
-## Backlog do Cliente 📋
-
-| Papel | Ação | Objetivo |
-|-------|------|----------|
-| Gestor de operações | Revisar entregas finais | Garantir que atendam aos requisitos do cliente |
-| Gestor de operações | Coletar feedback em apresentação prévia | Ajustar detalhes antes da entrega final |
-| Responsável por apresentações | Criar template no Canva/PowerPoint | Padronizar comunicações do grupo |
-| Responsável por apresentações | Preparar slides de apresentação inicial | Reunião de acompanhamento |
-| Responsável por apresentações | Montar slides com os primeiros gráficos | Facilitar entendimento do cliente |
-| Responsável por apresentações | Criar slides finais para a feira de soluções | Apresentação oficial |
-| Responsável por apresentações | Preparar roteiro de navegação em diferentes dispositivos | Demonstrar responsividade |
-| Gestor de operações | Acompanhar ensaios de apresentação | Garantir que o time esteja preparado |
-| Coordenador de operações | Validar dashboards em notebook, tablet e celular | Garantir boa visualização para todos os stakeholders |
-| Gestor de operações | Acompanhar o tempo médio de operação por porto | Identificar gargalos e otimizar processos |
-| Coordenador de logística | Comparar desempenho mensal de cada porto | Ajustar alocação de recursos |
-| Diretor de logística | Analisar tendências de carga ao longo do ano | Planejar investimentos estratégicos |
-| Diretor de operações | Ter dashboards com visão geral de portos, cargas e operações | Monitorar performance |
-| Coordenador de planejamento | Priorizar indicadores de eficiência | Orientar decisões gerenciais |
-| Supervisor de operações | Identificar operações com maior tempo de espera | Reduzir atrasos e custos |
-| Coordenador de operações | Planejar retrospectiva final | Avaliar aprendizado do time e melhorias do processo |
-
-<br>
-
 [![Acessar Jira](https://img.shields.io/badge/Acessar-Jira-blue?style=for-the-badge&logo=jira&logoColor=white)](https://biancatrevisan34.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
 <br>
