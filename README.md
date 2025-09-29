@@ -55,7 +55,7 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 
 |Sprint 🎯 | Previsão | Status| Histórico |
 |----------|----------|-------|-----------|
-|Kick Off | 12/09/2025 | Concluído ✅ | [MVP](#) |  
+|Kick Off | 12/09/2025 | Concluído ✅ | [MVP](https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Documentos/Requisitos%20de%20Cliente%204LOG%20-%20CADI.pdf) |  
 |1️⃣| 03/10/2025| Em andamento | [MVP](MVP/sp1.md) |
 |2️⃣| 24/10/2025 | A fazer | [MVP](MVP/sp1.md) |
 |3️⃣| 14/11/2025 | A fazer | [MVP](MVP/sp1.md) |
