@@ -63,103 +63,104 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 
 <br>
 
-## Backlog do Produto 📋
-
-| Rank  | Prioridade | User Story | Estimativa  | Sprint | Requisito |
-|:-----:|:----------:|:----------:|:-----------:|:------:|:---------:|
-|1|	Como analista de dados, quero acessar e baixar dados da ANTAQ via Colab, para iniciar o tratamento e análise. |	Alta |	4h	| Sprint 1	| RN.P.2 |
-|2|	Como analista de dados, quero normalizar e limpar a base (remover duplicados e nulos), para manter consistência. |	Alta	| 6h	| Sprint 1	| RN.P.1 |
-|3|	Como analista de dados, quero calcular tempos médios de operação portuária, para avaliar eficiência. |	Alta	| 4h	| Sprint 1	| RN.P.2 |
-|4| Como analista de dados, quero construir o primeiro dashboard no Power BI, para ter visão geral de portos, cargas e operações. |	Média |	4h | Sprint 1 |	RN.P.2 |
-|5|	Como analista de dados, quero implementar filtros avançados (período, tipo de carga), para análises personalizadas. |	Alta |	8h	| Sprint 1 | RN.P.1 |
-|6|	Como analista de dados, quero criar painéis interativos com ranking de eficiência dos portos, para identificar portos mais produtivos. | Alta | 10h | Sprint 1 | RN.P.1 |
-|7|	Como analista de dados, quero testar dashboards em diferentes resoluções de tela, para identificar ajustes de responsividade. | Média	| 6h | Sprint 1	| RN.P.2 |
-|8|	Como analista de dados, quero ajustar layouts do Power BI para versão mobile, para que usuários possam acessar via celular.	| Média	| 5h |	Sprint 1	| RN.P.1 |
-|9|	Como coordenador de operações, quero validar dashboards em notebook, tablet e celular, para garantir boa visualização para todos os stakeholders. |	Alta | 5h | Sprint 1 | RN.P.4 |
-|10|	Como gestor de operações, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos.	| Média	| 6h	| print 1	| RN.P.4 |
-|11|	Como coordenador de logística, quero comparar desempenho mensal de cada porto, para ajustar alocação de recursos.	| Baixa	| 4h	| Sprint 1	| RN.P.2 |
-|12|	Como diretor de logística, quero analisar tendências de carga ao longo do ano, para planejar investimentos estratégicos.	| Média	| 4h |	Sprint 1 | 	RN.P.2 |
-|13|	Como diretor de operações, quero ter dashboards com visão geral de portos, cargas e operações, para monitorar performance do sistema.	| Alta | 4h	| Sprint 2 | RN.P.2 |
-|14|	Como coordenador de planejamento, quero priorizar indicadores de eficiência, para orientar decisões gerenciais.	| Alta |	6h	| Sprint 2 |	RN.P.2 |
-|15|	Como supervisor de operações, quero identificar operações com maior tempo de espera, para reduzir atrasos e custos. |	Média |	3h |	Sprint 2	| RN.P.2 |
-|16|	Como responsável por relatórios técnicos, quero detalhar metodologia utilizada, para documentar processos e decisões. |	Média	| 3h |	Sprint 2	| RN.P.2 |
-|17|	Como responsável por relatórios técnicos, quero registrar glossário de variáveis, para facilitar entendimento de dados.	| Alta |	10h |	Sprint 2 |	RN.P.1 |
-|18|	Como responsável por relatórios técnicos, quero registrar análises exploratórias em relatório, para manter histórico completo. | Alta | 12h	| Sprint 2 |	RN.P.3 |
-|19|	Como responsável por relatórios técnicos, quero preparar anexos com código e prints dos dashboards, para documentação detalhada.	| Média	| 6h |	Sprint 2 | RN.P.2 |
-|20|	Como responsável por versionamento, quero criar repositório no GitHub, para controlar versões de scripts e datasets.	| Média	| 6h | Sprint 2 |	RN.P.2 |
-|21|	Como responsável por versionamento, quero definir branches (main/dev), para organizar contribuições e desenvolvimento.	| Alta | 5h	| Sprint 2 |	RN.P.4 |
-|22|	Como responsável por versionamento, quero atualizar repositório com scripts limpos e documentados, para manter histórico organizado.	| Média |	5h | Sprint 2 | RN.P.4 |
-|23|	Como responsável por versionamento, quero criar issues no Jira para feedback do cliente, para rastrear pendências e melhorias.	| Média |	5h |	Sprint 2 |	RN.P.3 |
-|24|	Como responsável por versionamento, quero revisar repositório e organizar releases finais, para entrega oficial. |	Baixa	| 5h |	Sprint 2 |	RN.P.2 |
-|25|	Como responsável por versionamento, quero fechar issues e documentar histórico do Jira, para controle da equipe.	| Alta |	4h |	Sprint 3	| RN.P.2 |
-|26| Como designer de apresentações, quero criar template no Canva/PowerPoint, para padronizar comunicações do grupo. |	Alta |	6h	| Sprint 3 | RN.P.2 |
-|27| Como designer de apresentações, quero preparar slides de apresentação inicial, para a primeira reunião de acompanhamento.	| Média	| 3h	| Sprint 3	| RN.P.2 |
-|28| Como designer de apresentações, quero montar slides com os primeiros gráficos, para facilitar entendimento do cliente.	| Média	| 4h	| Sprint 3	| RN.P.2 |
-|29| Como designer de apresentações, quero criar storyboard para a feira, para planejar comunicação final.	| Alta	| 12h	| Sprint 3	| RN.P.3 |
-|30| Como designer de apresentações, quero criar slides finais para a feira de soluções, para apresentação oficial.	| Alta	| 10h	| Sprint 3	| RN.P.5 |
-|31| Como responsável por apresentações, quero ensaiar storytelling com o time, para garantir impacto na banca.	| Alta	| 10h	| Sprint 3	| RN.P.2 |
-|32| Como responsável por apresentações, quero preparar roteiro de navegação em diferentes dispositivos, para demonstrar responsividade. | Média	| 8h | Sprint 3 |	RN.P.2 |
-|33| Como analista de dados, quero calcular métricas-chave de desempenho, para auxiliar decisões estratégicas.	| Alta	| 6h	| Sprint 3 |	RN.P.4 |
-|34| Como analista de dados, quero visualizar evolução de indicadores ao longo do tempo, para identificar tendências.	| Média	| 6h	| Sprint 3 | RN.P.4 |
-|35| Como analista de dados, quero criar painéis comparativos entre portos e operações, para apoiar decisões gerenciais.	| Alta	| 8h	| Sprint 3 | RN.P.3 |
-|36| Como gestor de operações, quero revisar entregas finais, para garantir que atendam aos requisitos do cliente. |	Alta	| 6h	| Sprint 3	| RN.P.2 |
-|37| Como gestor de operações, quero coletar feedback em apresentação prévia, para ajustar detalhes antes da entrega final.	| Alta	| 6h	| Sprint 2 | RN.P.6 |
-|38| Como responsável por relatórios técnicos, quero finalizar relatório acadêmico com resultados e conclusões, para entregar à banca.	| Média	| 4h | Sprint 2	| RN.P.6 |
-|39| Como analista de dados, quero registrar insights estratégicos obtidos nos dashboards, para apoiar decisões futuras.	| Alta | 8h | Sprint 3 | RN.P.6 |
-|40| Como coordenador de operações, quero acompanhar ensaios de apresentação, para garantir que o time esteja preparado.	| Média |	6h | Sprint 3 | RN.P.6 |
-|41| Como coordenador de operações, quero planejar retrospectiva final, para avaliar aprendizado do time e melhorias do processo.	| Alta	| 4h | Sprint 3	| RN.P.6|
-
+## Backlog das Sprints 📋
+| Rank | User Story | Prioridade | Estimativa | Sprint | Requisito |
+|----|------------|------------|-------------|--------|-----------|
+| 1  | Como **analista de mercado**, quero acessar e baixar dados da ANTAQ via Colab, para iniciar minhas próprias análises. | Alta | 4h | Sprint 1 | RN.P.2 |
+| 2  | Como **gerente de planejamento**, quero que os dados estejam normalizados e limpos (sem duplicados e nulos), para garantir consistência nas análises. | Alta | 6h | Sprint 1 | RN.P.1 |
+| 3  | Como **supervisor de operações**, quero visualizar tempos médios de operação portuária, para avaliar eficiência do dia a dia. | Alta | 4h | Sprint 1 | RN.P.2 |
+| 4  | Como **diretor de operações**, quero um dashboard no Power BI com visão geral de portos, cargas e operações, para ter panorama completo. | Alta | 6h | Sprint 1 | RN.P.2 |
+| 5  | Como **coordenador de logística**, quero aplicar filtros avançados (período, tipo de carga), para análises personalizadas. | Média | 4h | Sprint 1 | RN.P.2 |
+| 6  | Como **coordenador de operações**, quero garantir que os dashboards funcionem em diferentes resoluções, para boa visualização em qualquer dispositivo. | Alta | 5h | Sprint 1 | RN.P.2 |
+| 7  | Como **gerente de operações**, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta | 5h | Sprint 1 | RN.P.2 |
+| 8  | Como **coordenador de logística**, quero compreender o desempenho mensal dos portos, para alocar adequadamente os recursos. | Alta | 5h | Sprint 1 | RN.P.2 |
+| 9  | Como **diretor de logística**, quero analisar tendências de carga e destino ao longo dos anos, para planejar investimentos estratégicos. | Baixa | 6h | Sprint 1 | RN.P.2 |
+| 12 | Como **diretor de operações**, quero dashboards consolidados de portos, cargas e operações, para monitorar performance do sistema. | Média | 4h | Sprint 1 | RN.P.2 |
+| 13 | Como **coordenador de planejamento**, quero priorizar indicadores de eficiência, para orientar decisões gerenciais. | Alta | 6h | Sprint 1 | RN.P.2 |
+| 14 | Como **supervisor de operações**, quero identificar operações com maior tempo de espera, para reduzir atrasos e custos. | Alta | 6h | Sprint 1 | RN.P.2 |
+| 15 | Como **diretor estratégico**, quero visualizar métricas-chave de desempenho, para apoiar decisões de alto nível. | Média | 6h | Sprint 1 | RN.P.2 |
+| 16 | Como **gerente de planejamento**, quero acompanhar a evolução dos indicadores ao longo do tempo, para identificar tendências. | Média | 3h | Sprint 2 | RN.P.2 |
+| 17 | Como **coordenador de logística**, quero comparar desempenho entre portos e operações, para embasar decisões de gestão. | Alta | 10h | Sprint 2 | RN.P.2 |
+| 18 | Como **gerente de operações**, quero que os insights estratégicos extraídos dos dashboards estejam registrados, para apoiar decisões futuras. | Alta | 12h | Sprint 2 | RN.P.2 |
+| 19 | Como **gerente regulatório**, quero ter relatórios com metodologia detalhada, para compreender processos e decisões. | Média | 6h | Sprint 2 | RN.P.2 |
+| 20 | Como **coordenador técnico**, quero consultar glossário de variáveis, para facilitar interpretação dos dados. | Média | 4h | Sprint 2 | RN.P.2 |
+| 21 | Como **auditor interno**, quero relatórios com análises exploratórias documentadas, para manter histórico completo. | Alta | 5h | Sprint 2 | RN.P.2 |
+| 22 | Como **gerente de compliance**, quero receber anexos com códigos e consultas usadas nos dashboards, para boa documentação detalhada. | Média | 6h | Sprint 2 | RN.P.2 |
+| 23 | Como **diretor executivo**, quero relatório final com resultados e conclusões, para avaliar a solução apresentada. | Média | 4h | Sprint 2 | RN.P.2 |
+| 24 | Como **coordenador de TI**, quero que haja controle de versões dos scripts e datasets, para garantir histórico organizado. | Baixa | 5h | Sprint 2 | RN.P.2 |
+| 25 | Como **gerente de desenvolvimento**, quero que haja organização em branches (main/dev), para manter confiabilidade no processo. | Alta | 6h | Sprint 2 | RN.P.2 |
+| 26 | Como **engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização. | Alta | 6h | Sprint 3 | RN.P.3 |
+| 27 | Como **gerente de projetos**, quero que melhorias e pendências sejam rastreadas em Jira, para acompanhar evolução do projeto. | Alta | 6h | Sprint 3 | RN.P.3 |
+| 28 | Como **gerente de TI**, quero que a entrega final seja organizada em releases documentadas, para facilitar validação. | Média | 6h | Sprint 3 | RN.P.2 |
+| 29 | Como **coordenador de qualidade**, quero histórico das pendências fechadas no Jira, para acompanhar evolução. | Média | 6h | Sprint 3 | RN.P.3 |
+| 30 | Como **diretor comercial**, quero apresentações padronizadas (template único), para comunicação consistente do proposta. | Alta | 4h | Sprint 3 | RN.P.3 |
+| 31 | Como **gerente de contas**, quero visualizar slides iniciais claros, para compreender a solução desde o começo. | Alta | 6h | Sprint 3 | RN.P.3 |
+| 32 | Como **gerente de operações**, quero ver gráficos ilustrativos nos slides, para facilitar entendimento dos dados. | Média | 6h | Sprint 3 | RN.P.2 |
+| 33 | Como **diretor de marketing**, quero acompanhar storyboard das apresentações, para entender como será a comunicação final. | Alta | 6h | Sprint 3 | RN.P.4 |
+| 34 | Como **diretor executivo**, quero assistir apresentação final estruturada, para julgar solução de forma clara. | Média | 6h | Sprint 3 | RN.P.2 |
+| 35 | Como **diretor estratégico**, quero que a equipe apresente storytelling bem ensaiado, para transmitir impacto. | Alta | 8h | Sprint 3 | RN.P.2 |
+| 36 | Como **gerente de TI**, quero roteiro de navegação em diferentes dispositivos, para verificar responsividade. | Alta | 5h | Sprint 2 | RN.P.2 |
+| 37 | Como **diretor de operações**, quero revisar as entregas finais, para garantir que apenas materiais consistentes sejam recebidos. | Alta | 6h | Sprint 3 | RN.P.2 |
+| 38 | Como **gerente de operações**, quero dar feedback em cada versão apresentada pela equipe, para ajustar detalhes antes da entrega final. | Média | 4h | Sprint 3 | RN.P.2 |
+| 39 | Como **diretor executivo**, quero validar apresentação final antes da entrega oficial, para que a solução seja bem recebida. | Alta | 6h | Sprint 3 | RN.P.2 |
+| 40 | Como **coordenador de operações**, quero planejar retrospectiva final, para avaliar aprendizado e melhorias do processo. | Média | 6h | Sprint 3 | RN.P.3 |
+| 41 | Como **coordenador de operações**, quero planejar retrospectiva final, para avaliar aprendizado e melhorias do processo. | Média | 4h | Sprint 3 | RN.P.3 |
+| 42  | Como **gerente de eficiência operacional**, quero ver painéis interativos com ranking dos portos, para identificar os mais produtivos. | Alta | 10h | Sprint 3 | RN.P.6 |
 
 <br>
 
-## Backlog da Sprint 📋
+## Backlog do Produto 📋
 
-### Sprint 1 🎯 
-- [ ] Acessar e baixar dados da ANTAQ via Colab para iniciar tratamento e análise
-- [ ] Normalizar e limpar a base (remover duplicados e nulos) para manter consistência
-- [ ] Calcular tempos médios de operação portuária para avaliar eficiência
-- [ ] Construir o primeiro dashboard no Power BI para visão geral de portos, cargas e operações
-- [ ] Implementar filtros avançados (período, tipo de carga) para análises personalizadas
-- [ ] Criar painéis interativos com ranking de eficiência dos portos para identificar portos mais produtivos
-- [ ] Testar dashboards em diferentes resoluções de tela para identificar ajustes de responsividade
-- [ ] Ajustar layouts do Power BI para versão mobile para que usuários possam acessar via celular
-- [ ] Validar dashboards em notebook, tablet e celular para garantir boa visualização para stakeholders
-- [ ] Acompanhar tempo médio de operação por porto para identificar gargalos e otimizar processos
-- [ ] Comparar desempenho mensal de cada porto para ajustar alocação de recursos
+| Papel | Ação | Objetivo |
+|-------|------|----------|
+| Analista de dados | Acessar e baixar dados da ANTAQ via Colab | Iniciar o tratamento e análise |
+| Analista de dados | Normalizar e limpar a base (remover duplicados e dados nulos) | Manter consistência e confiabilidade |
+| Analista de dados | Calcular tempos médios de operação portuária | Avaliar eficiência |
+| Analista de dados | Construir o primeiro dashboard no Power BI | Ter visão geral de portos, cargas e operações |
+| Analista de dados | Implementar filtros avançados (período, tipo de carga) | Análises personalizadas |
+| Analista de dados | Criar painéis interativos com ranking de eficiência dos portos | Identificar portos mais produtivos |
+| Analista de dados | Testar dashboards em diferentes resoluções de tela | Identificar ajustes de responsividade |
+| Analista de dados | Ajustar layouts do Power BI para versão mobile | Acesso via celular |
+| Analista de dados | Calcular métricas-chave de desempenho | Apoiar decisões estratégicas |
+| Analista de dados | Visualizar evolução de indicadores ao longo do tempo | Identificar tendências |
+| Analista de dados | Criar painéis comparativos entre portos e operações | Apoiar decisões gerenciais |
+| Analista de dados | Registrar insights estratégicos obtidos nos dashboards | Apoiar decisões futuras |
+| Responsável por relatórios técnicos | Detalhar metodologia utilizada | Documentar processos e decisões |
+| Responsável por relatórios técnicos | Registrar glossário de variáveis | Facilitar entendimento de dados |
+| Responsável por relatórios técnicos | Registrar análises exploratórias em relatório | Manter histórico completo |
+| Responsável por relatórios técnicos | Preparar anexos com código e prints dos dashboards | Documentação detalhada |
+| Responsável por relatórios técnicos | Finalizar relatório acadêmico com resultados e conclusões | Entregar à banca |
+| Responsável por versionamento | Criar repositório no GitHub | Controlar versões de scripts e datasets |
+| Responsável por versionamento | Definir branches (main/dev) | Organizar contribuições e desenvolvimento |
+| Responsável por versionamento | Atualizar repositório com scripts limpos e documentados | Manter histórico organizado |
+| Responsável por versionamento | Criar issues no Jira para feedback do cliente | Rastrear pendências e melhorias |
+| Responsável por versionamento | Revisar repositório e organizar releases finais | Entrega oficial |
+| Responsável por versionamento | Fechar issues e documentar histórico do Jira | Controle da equipe |
+| Responsável por apresentações | Preparar storyboard para feira | Planejar comunicação final |
+| Responsável por apresentações | Ensaiar storytelling com o time | Garantir impacto na banca |
 
-### Sprint 2 🎯
-- [ ] Analisar tendências de carga ao longo do ano para planejar investimentos estratégicos
-- [ ] Ter dashboards com visão geral de portos, cargas e operações para monitorar performance do sistema
-- [ ] Priorizar indicadores de eficiência para orientar decisões gerenciais
-- [ ] Identificar operações com maior tempo de espera para reduzir atrasos e custos
-- [ ] Detalhar metodologia utilizada para documentar processos e decisões
-- [ ] Registrar glossário de variáveis para facilitar entendimento de dados
-- [ ] Registrar análises exploratórias em relatório para manter histórico completo
-- [ ] Preparar anexos com código e prints dos dashboards para documentação detalhada
-- [ ] Criar repositório no GitHub para controlar versões de scripts e datasets
-- [ ] Definir branches (main/dev) para organizar contribuições e desenvolvimento
-- [ ] Atualizar repositório com scripts limpos e documentados para manter histórico organizado
-- [ ] Criar issues no Jira para feedback do cliente para rastrear pendências e melhorias
-- [ ] Revisar repositório e organizar releases finais para entrega oficial
+<br>
 
-### Sprint 3 🎯
-- [ ] Fechar issues e documentar histórico do Jira para controle da equipe
-- [ ] Criar template no Canva/PowerPoint para padronizar comunicações do grupo
-- [ ] Preparar slides de apresentação inicial para a primeira reunião de acompanhamento
-- [ ] Montar slides com os primeiros gráficos para facilitar entendimento do cliente
-- [ ] Criar storyboard para a feira para planejar comunicação final
-- [ ] Criar slides finais para a feira de soluções para apresentação oficial
-- [ ] Ensaiar storytelling com o time para garantir impacto na banca
-- [ ] Preparar roteiro de navegação em diferentes dispositivos para demonstrar responsividade
-- [ ] Calcular métricas-chave de desempenho para auxiliar decisões estratégicas
-- [ ] Visualizar evolução de indicadores ao longo do tempo para identificar tendências
-- [ ] Criar painéis comparativos com outros portos e operações para apoiar decisões gerenciais
-- [ ] Revisar dashboards finais para garantir que atendam às necessidades dos clientes
-- [ ] Coletar feedback em apresentação de dashboard para ajustar detalhes antes da entrega final
-- [ ] Finalizar relatórios técnicos com análises e dashboards para entregar à banca
-- [ ] Registrar insights estratégicos obtidos nos dashboards para apoiar decisões futuras
-- [ ] Acompanhar ensaios de apresentação para garantir que o time esteja preparado
-- [ ] Planejar retrospectiva final para aprendizado do time e melhorias do processo
+## Backlog do Cliente 📋
+
+| Papel | Ação | Objetivo |
+|-------|------|----------|
+| Gestor de operações | Revisar entregas finais | Garantir que atendam aos requisitos do cliente |
+| Gestor de operações | Coletar feedback em apresentação prévia | Ajustar detalhes antes da entrega final |
+| Responsável por apresentações | Criar template no Canva/PowerPoint | Padronizar comunicações do grupo |
+| Responsável por apresentações | Preparar slides de apresentação inicial | Reunião de acompanhamento |
+| Responsável por apresentações | Montar slides com os primeiros gráficos | Facilitar entendimento do cliente |
+| Responsável por apresentações | Criar slides finais para a feira de soluções | Apresentação oficial |
+| Responsável por apresentações | Preparar roteiro de navegação em diferentes dispositivos | Demonstrar responsividade |
+| Gestor de operações | Acompanhar ensaios de apresentação | Garantir que o time esteja preparado |
+| Coordenador de operações | Validar dashboards em notebook, tablet e celular | Garantir boa visualização para todos os stakeholders |
+| Gestor de operações | Acompanhar o tempo médio de operação por porto | Identificar gargalos e otimizar processos |
+| Coordenador de logística | Comparar desempenho mensal de cada porto | Ajustar alocação de recursos |
+| Diretor de logística | Analisar tendências de carga ao longo do ano | Planejar investimentos estratégicos |
+| Diretor de operações | Ter dashboards com visão geral de portos, cargas e operações | Monitorar performance |
+| Coordenador de planejamento | Priorizar indicadores de eficiência | Orientar decisões gerenciais |
+| Supervisor de operações | Identificar operações com maior tempo de espera | Reduzir atrasos e custos |
+| Coordenador de operações | Planejar retrospectiva final | Avaliar aprendizado do time e melhorias do processo |
 
 <br>
 
