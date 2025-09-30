@@ -72,10 +72,8 @@ O MVP deve permitir que o usuário acesse e baixe dados atualizados da ANTAQ, re
 
 ## 📂 Anexos / Evidências
 
-- Prints de tela
-<img src="" width="400">
-
-- Vídeo (MVP)
-
 [![Assista ao vídeo](https://img.youtube.com/vi/giK-YLXdSvg/hqdefault.jpg)](https://www.youtube.com/watch?v=giK-YLXdSvg)
+
+![MVP](https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/V%C3%ADdeos%20e%20Fotos/MVP%20Sprint%201.mp4)
+
 
