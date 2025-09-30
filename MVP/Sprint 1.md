@@ -76,4 +76,6 @@ O MVP deve permitir que o usuário acesse e baixe dados atualizados da ANTAQ, re
 <img src="" width="400">
 
 - Vídeo (MVP)
-<video src="https://www.youtube.com/watch?v=giK-YLXdSvg" controls width="600"></video>
+
+[![Assista ao vídeo](https://img.youtube.com/vi/giK-YLXdSvg/hqdefault.jpg)](https://www.youtube.com/watch?v=giK-YLXdSvg)
+
