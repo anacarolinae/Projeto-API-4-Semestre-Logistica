@@ -2,19 +2,10 @@
 
 ## Objetivo do MVP 🎯
 
-### Qual problema resolve?
-O MVP resolve a necessidade de acesso, limpeza e análise eficiente dos dados da ANTAQ, proporcionando uma visão clara sobre o desempenho dos portos e operações logísticas. Ele permite que analistas e gestores obtenham insights para melhorar a eficiência dos processos e otimizar a alocação de recursos.
-
-### Qual hipótese será validada?
-A hipótese a ser validada é que, ao centralizar e analisar os dados de operações portuárias e cargas, será possível identificar portos mais produtivos, otimizar processos logísticos e tomar decisões estratégicas baseadas em dados precisos.
-
-### Qual valor será entregue ao usuário final?
-O MVP proporcionará aos analistas de dados e gestores acesso a dashboards interativos e customizáveis, com filtros avançados e métricas de desempenho dos portos, permitindo uma tomada de decisão mais rápida e fundamentada, além de possibilitar ajustes operacionais em tempo real.
-
+O MVP busca resolver a necessidade de acesso, limpeza e análise eficiente dos dados da ANTAQ, oferecendo uma visão clara sobre o desempenho dos portos e operações logísticas. A hipótese a ser validada é que, ao centralizar e analisar esses dados, será possível identificar portos mais produtivos, otimizar processos logísticos e apoiar decisões estratégicas baseadas em informações precisas. Como valor entregue ao usuário final, a solução disponibilizará dashboards interativos e customizáveis, com filtros avançados e métricas de desempenho, possibilitando decisões mais rápidas, fundamentadas e ajustes operacionais em tempo real.
 
 ## Descrição da Solução 📝 
 
-### Breve explicação do que será desenvolvido e entregue nesta etapa.
 Será desenvolvido um MVP de análise de dados que permite o acesso à base de dados da ANTAQ, com funcionalidades para normalizar e limpar os dados, calcular métricas de desempenho portuário e criar dashboards interativos no Power BI. O objetivo é validar a eficiência dos dashboards e ferramentas analíticas para usuários finais como analistas de dados, coordenadores de operações e gestores de logística.
 
 ### Funcionalidades principais incluídas
@@ -31,7 +22,7 @@ Será desenvolvido um MVP de análise de dados que permite o acesso à base de d
 - O acesso aos dados da ANTAQ pode ser limitado por questões de atualização e disponibilidade.
 - A personalização do dashboard para diferentes dispositivos pode exigir ajustes adicionais após feedback.
 
-### Escopo reduzido (somente o essencial para validar a ideia)
+### Escopo reduzido
 O escopo inicial inclui a implementação da integração com a ANTAQ, normalização dos dados, cálculo das métricas principais e a criação de dashboards básicos com filtros essenciais.
 
 ## Personas / Usuários-Alvo 👥
@@ -74,41 +65,15 @@ O escopo inicial inclui a implementação da integração com a ANTAQ, normaliza
 
 ## Critérios de Aceitação  📊 
 
-- **O MVP deve permitir que o usuário**:
-  - Acesse e baixe dados atualizados da ANTAQ para análise.
-  - Realize a normalização e limpeza da base de dados com eficiência.
-  - Obtenha insights sobre a eficiência portuária por meio de dashboards interativos e filtros avançados.
-
-- **O sistema deve registrar**:
-  - O tempo médio de operação por porto.
-  - A quantidade de dados processados e eventuais falhas no processo.
-
-- **Métricas coletadas**:
-  - Tempo de resposta nas consultas de dados.
-  - Taxa de uso dos dashboards.
-  - Feedback qualitativo dos usuários finais (analistas, coordenadores e gestores).
+O MVP deve permitir que o usuário acesse e baixe dados atualizados da ANTAQ, realize a normalização e limpeza da base de dados com eficiência e obtenha insights sobre a eficiência portuária por meio de dashboards interativos e filtros avançados. Além disso, o sistema registrará o tempo médio de operação por porto, a quantidade de dados processados e eventuais falhas, enquanto as métricas coletadas incluirão o tempo de resposta nas consultas, a taxa de uso dos dashboards e o feedback qualitativo dos usuários finais, como analistas, coordenadores e gestores.
 
 
 ## Métricas de Validação  📈
 
-- Número de usuários que testaram o MVP.
-- Feedback qualitativo (positivo/negativo) sobre a usabilidade dos dashboards e a precisão dos dados.
-- Indicadores de negócio: 
-  - % de adesão ao uso das ferramentas de análise.
-  - Redução de tempo gasto para coleta e análise de dados.
-  - Eficiência operacional medida pela redução de gargalos identificados nas operações portuárias.
+## 📂 Anexos / Evidências
 
+- Prints de tela
+<img src="" width="400">
 
-## Próximos Passos 🚀 
-
-- **Melhorias planejadas após feedback**:
-  - Refinar os filtros de análise com base no feedback dos usuários.
-  - Melhorar a performance do sistema de integração com a ANTAQ.
-
-- **Ajustes de usabilidade**:
-  - Melhorar a responsividade dos dashboards para diferentes dispositivos e resoluções.
-  - Ajustar os layouts de Power BI para versão mobile com base nos testes.
-
-- **Expansão de funcionalidades para próximo incremento**:
-  - Adicionar mais métricas e KPIs nos dashboards.
-  - Implementar alertas automáticos de desempenho para portos específicos.
+- Vídeo (MVP)
+<video src="https://www.youtube.com/watch?v=giK-YLXdSvg" controls width="600"></video>
