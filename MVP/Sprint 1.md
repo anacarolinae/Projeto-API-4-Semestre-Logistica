@@ -38,30 +38,7 @@ O escopo inicial inclui a implementação da integração com a ANTAQ, normaliza
 
 ## User Stories (Backlog do MVP) 🔑 
 
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista de dados, quero acessar e baixar dados da ANTAQ via Colab, para iniciar o tratamento e análise. | Alta       | 5 pontos   |
-| US2 | Como analista de dados, quero normalizar e limpar a base (remover duplicados e nulos), para manter consistência. | Alta       | 5 pontos   |
-| US3 | Como analista de dados, quero calcular tempos médios de operação portuária, para avaliar eficiência. | Alta       | 5 pontos   |
-| US4 | Como analista de dados, quero construir o primeiro dashboard no Power BI, para ter visão geral de portos, cargas e operações. | Alta       | 5 pontos   |
-| US5 | Como analista de dados, quero implementar filtros avançados (período, tipo de carga), para análises personalizadas. | Média      | 3 pontos   |
-| US6 | Como analista de dados, quero criar painéis interativos com ranking de eficiência dos portos, para identificar portos mais produtivos. | Alta       | 5 pontos   |
-| US7 | Como analista de dados, quero testar dashboards em diferentes resoluções de tela, para identificar ajustes de responsividade. | Média      | 3 pontos   |
-| US8 | Como analista de dados, quero ajustar layouts do Power BI para versão mobile, para que usuários possam acessar via celular. | Média      | 3 pontos   |
-| US9 | Como coordenador de operações, quero validar dashboards em notebook, tablet e celular, para garantir boa visualização para todos os stakeholders. | Alta       | 5 pontos   |
-| US10 | Como gestor de operações, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta       | 5 pontos   |
-| US11 | Como coordenador de logística, quero comparar desempenho mensal de cada porto, para ajustar alocação de recursos. | Alta       | 5 pontos   |
-| US12 | Como diretor de logística, quero analisar tendências de carga ao longo do ano, para planejar investimentos estratégicos. | Alta       | 5 pontos   |
-
-
-## Sprints Relacionadas 📅
-
-| Sprint | Entregas Principais                                               | Status      |
-|--------|--------------------------------------------------------------------|-------------|
-| 01     | Integração com a ANTAQ, normalização e limpeza de dados, cálculo de tempos médios de operação | Concluído   |
-| 02     | Criação de dashboards no Power BI, filtros avançados, ajustes para dispositivos móveis | Em andamento |
-| 03     | Validação de dashboards em diferentes dispositivos, análise de eficiência dos portos | Em andamento |
-
+<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20I.jpg" width="1500">
 
 ## Critérios de Aceitação  📊 
 
@@ -71,8 +48,6 @@ O MVP deve permitir que o usuário acesse e baixe dados atualizados da ANTAQ, re
 ## Métricas de Validação  📈
 
 ## 📂 Anexos / Evidências
-
-[![Assista ao vídeo](https://img.youtube.com/vi/giK-YLXdSvg/hqdefault.jpg)](https://www.youtube.com/watch?v=giK-YLXdSvg)
 
 ![MVP](https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/V%C3%ADdeos%20e%20Fotos/MVP%20Sprint%201.mp4)
 
