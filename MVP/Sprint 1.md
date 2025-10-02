@@ -44,9 +44,6 @@ O escopo inicial inclui a implementação da integração com a ANTAQ, normaliza
 
 O MVP deve permitir que o usuário acesse e baixe dados atualizados da ANTAQ, realize a normalização e limpeza da base de dados com eficiência e obtenha insights sobre a eficiência portuária por meio de dashboards interativos e filtros avançados. Além disso, o sistema registrará o tempo médio de operação por porto, a quantidade de dados processados e eventuais falhas, enquanto as métricas coletadas incluirão o tempo de resposta nas consultas, a taxa de uso dos dashboards e o feedback qualitativo dos usuários finais, como analistas, coordenadores e gestores.
 
-
-## Métricas de Validação  📈
-
 ## 📂 Anexos / Evidências
 
 ![Gif Trium](https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/V%C3%ADdeos%20e%20Fotos/MVP%20Sprint%201.gif)
