@@ -1,114 +1,145 @@
-#  MVP - Sprint 1 📌
+# MVP - Sprint 3 📌
 
-## Objetivo do MVP 🎯
+## Objetivo da Sprint 3 🎯
 
-### Qual problema resolve?
-O MVP resolve a necessidade de acesso, limpeza e análise eficiente dos dados da ANTAQ, proporcionando uma visão clara sobre o desempenho dos portos e operações logísticas. Ele permite que analistas e gestores obtenham insights para melhorar a eficiência dos processos e otimizar a alocação de recursos.
+A Sprint 3 tem como objetivo consolidar a entrega final do projeto, garantindo organização, documentação e comunicação estruturada. A hipótese a ser validada é que, ao apresentar os resultados de forma clara, com scripts documentados, relatórios organizados e apresentações padronizadas, será possível transmitir credibilidade e impacto aos stakeholders, além de permitir reuso técnico e validação consistente do produto.
 
-### Qual hipótese será validada?
-A hipótese a ser validada é que, ao centralizar e analisar os dados de operações portuárias e cargas, será possível identificar portos mais produtivos, otimizar processos logísticos e tomar decisões estratégicas baseadas em dados precisos.
+O valor entregue ao usuário final será uma entrega final estruturada, composta por scripts limpos e reutilizáveis, apresentações profissionais e releases documentadas, fortalecendo a percepção de qualidade e profissionalismo da solução.
 
-### Qual valor será entregue ao usuário final?
-O MVP proporcionará aos analistas de dados e gestores acesso a dashboards interativos e customizáveis, com filtros avançados e métricas de desempenho dos portos, permitindo uma tomada de decisão mais rápida e fundamentada, além de possibilitar ajustes operacionais em tempo real.
+---
 
+## Descrição da Solução 📝
 
-## Descrição da Solução 📝 
-
-### Breve explicação do que será desenvolvido e entregue nesta etapa.
-Será desenvolvido um MVP de análise de dados que permite o acesso à base de dados da ANTAQ, com funcionalidades para normalizar e limpar os dados, calcular métricas de desempenho portuário e criar dashboards interativos no Power BI. O objetivo é validar a eficiência dos dashboards e ferramentas analíticas para usuários finais como analistas de dados, coordenadores de operações e gestores de logística.
+A evolução do MVP nesta sprint estará focada na organização final das entregas, padronização da comunicação e validação de qualidade. As melhorias incluem a documentação dos scripts, rastreabilidade de pendências no Jira, criação de apresentações estruturadas e storytelling ensaiado para a apresentação final.
 
 ### Funcionalidades principais incluídas
-- Acesso e download de dados da ANTAQ via Colab.
-- Normalização e limpeza de dados (remoção de duplicados e nulos).
-- Cálculo de tempos médios de operação portuária.
-- Criação de dashboards no Power BI com métricas de desempenho.
-- Filtros avançados para personalização das análises.
-- Painéis interativos com ranking de eficiência dos portos.
-- Ajuste de layouts para versão mobile e diferentes resoluções de tela.
+
+* Scripts finais limpos, comentados e documentados para reutilização.
+* Registro de melhorias e pendências no Jira.
+* Releases finais documentadas e organizadas.
+* Histórico de pendências fechadas no Jira.
+* Apresentações em template único padronizado.
+* Slides iniciais claros para introdução da solução.
+* Gráficos ilustrativos nos slides para facilitar entendimento.
+* Storyboard de apresentações para revisão do fluxo.
+* Storytelling ensaiado para impacto na apresentação final.
+* Roteiro de navegação em diferentes dispositivos.
+* Painéis interativos com ranking de portos.
 
 ### Limitações conhecidas
-- A quantidade de dados pode afetar a performance do sistema se não for bem otimizada.
-- O acesso aos dados da ANTAQ pode ser limitado por questões de atualização e disponibilidade.
-- A personalização do dashboard para diferentes dispositivos pode exigir ajustes adicionais após feedback.
 
-### Escopo reduzido (somente o essencial para validar a ideia)
-O escopo inicial inclui a implementação da integração com a ANTAQ, normalização dos dados, cálculo das métricas principais e a criação de dashboards básicos com filtros essenciais.
+* O processo de padronização pode exigir retrabalho nos materiais já existentes.
+* A criação de storyboard e storytelling demanda tempo de ensaio e validação.
+* A responsividade pode variar em diferentes dispositivos, exigindo testes adicionais.
+
+### Escopo reduzido
+
+O escopo inicial desta sprint foca na organização dos scripts, padronização dos slides e registro de pendências no Jira. Ensaios e storytelling detalhado podem ser refinados após feedback das primeiras apresentações.
+
+---
 
 ## Personas / Usuários-Alvo 👥
 
-### Persona 1: Analista de Dados
-- **Necessidades**: Acessar e limpar dados de forma rápida, construir dashboards informativos para análise de performance portuária.
-- **Dores atendidas**: Falta de automação no tratamento de dados, dificuldade em acessar dados em tempo real.
+### Persona 1: Engenheiro de Software
 
-### Persona 2: Coordenador de Operações
-- **Necessidades**: Acompanhar a eficiência dos portos e identificar gargalos operacionais.
-- **Dores atendidas**: Dificuldade em comparar o desempenho dos portos, ineficiência na alocação de recursos.
+* **Necessidades**: Scripts finais documentados e limpos.
+* **Dores atendidas**: Dificuldade em reutilizar código de forma eficiente.
 
+### Persona 2: Gerente de Projetos
 
-## User Stories (Backlog do MVP) 🔑 
+* **Necessidades**: Pendências e melhorias rastreadas em Jira.
+* **Dores atendidas**: Falta de rastreabilidade no acompanhamento da evolução.
 
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista de dados, quero acessar e baixar dados da ANTAQ via Colab, para iniciar o tratamento e análise. | Alta       | 5 pontos   |
-| US2 | Como analista de dados, quero normalizar e limpar a base (remover duplicados e nulos), para manter consistência. | Alta       | 5 pontos   |
-| US3 | Como analista de dados, quero calcular tempos médios de operação portuária, para avaliar eficiência. | Alta       | 5 pontos   |
-| US4 | Como analista de dados, quero construir o primeiro dashboard no Power BI, para ter visão geral de portos, cargas e operações. | Alta       | 5 pontos   |
-| US5 | Como analista de dados, quero implementar filtros avançados (período, tipo de carga), para análises personalizadas. | Média      | 3 pontos   |
-| US6 | Como analista de dados, quero criar painéis interativos com ranking de eficiência dos portos, para identificar portos mais produtivos. | Alta       | 5 pontos   |
-| US7 | Como analista de dados, quero testar dashboards em diferentes resoluções de tela, para identificar ajustes de responsividade. | Média      | 3 pontos   |
-| US8 | Como analista de dados, quero ajustar layouts do Power BI para versão mobile, para que usuários possam acessar via celular. | Média      | 3 pontos   |
-| US9 | Como coordenador de operações, quero validar dashboards em notebook, tablet e celular, para garantir boa visualização para todos os stakeholders. | Alta       | 5 pontos   |
-| US10 | Como gestor de operações, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta       | 5 pontos   |
-| US11 | Como coordenador de logística, quero comparar desempenho mensal de cada porto, para ajustar alocação de recursos. | Alta       | 5 pontos   |
-| US12 | Como diretor de logística, quero analisar tendências de carga ao longo do ano, para planejar investimentos estratégicos. | Alta       | 5 pontos   |
+### Persona 3: Gerente de TI
 
+* **Necessidades**: Releases finais organizadas e documentadas.
+* **Dores atendidas**: Entregas sem registro formal de versão.
 
-## Sprints Relacionadas 📅
+### Persona 4: Coordenador de Qualidade
 
-| Sprint | Entregas Principais                                               | Status      |
-|--------|--------------------------------------------------------------------|-------------|
-| 01     | Integração com a ANTAQ, normalização e limpeza de dados, cálculo de tempos médios de operação | Concluído   |
-| 02     | Criação de dashboards no Power BI, filtros avançados, ajustes para dispositivos móveis | Em andamento |
-| 03     | Validação de dashboards em diferentes dispositivos, análise de eficiência dos portos | Em andamento |
+* **Necessidades**: Histórico de pendências fechadas no Jira.
+* **Dores atendidas**: Falta de indicadores claros de evolução e melhorias.
 
+### Persona 5: Diretor Comercial
 
-## Critérios de Aceitação  📊 
+* **Necessidades**: Apresentações padronizadas e consistentes.
+* **Dores atendidas**: Materiais desconexos ou pouco profissionais.
 
-- **O MVP deve permitir que o usuário**:
-  - Acesse e baixe dados atualizados da ANTAQ para análise.
-  - Realize a normalização e limpeza da base de dados com eficiência.
-  - Obtenha insights sobre a eficiência portuária por meio de dashboards interativos e filtros avançados.
+### Persona 6: Gerente de Contas
 
-- **O sistema deve registrar**:
-  - O tempo médio de operação por porto.
-  - A quantidade de dados processados e eventuais falhas no processo.
+* **Necessidades**: Slides iniciais claros para compreender a solução.
+* **Dores atendidas**: Introduções confusas e mal estruturadas.
 
-- **Métricas coletadas**:
-  - Tempo de resposta nas consultas de dados.
-  - Taxa de uso dos dashboards.
-  - Feedback qualitativo dos usuários finais (analistas, coordenadores e gestores).
+### Persona 7: Gerente de Operações
 
+* **Necessidades**: Gráficos ilustrativos nos slides e possibilidade de dar feedback em cada versão.
+* **Dores atendidas**: Falta de visualização clara dos dados e ausência de iteração no processo de revisão.
 
-## Métricas de Validação  📈
+### Persona 8: Diretor de Marketing
 
-- Número de usuários que testaram o MVP.
-- Feedback qualitativo (positivo/negativo) sobre a usabilidade dos dashboards e a precisão dos dados.
-- Indicadores de negócio: 
-  - % de adesão ao uso das ferramentas de análise.
-  - Redução de tempo gasto para coleta e análise de dados.
-  - Eficiência operacional medida pela redução de gargalos identificados nas operações portuárias.
+* **Necessidades**: Storyboard das apresentações.
+* **Dores atendidas**: Falta de clareza na comunicação do produto.
 
+### Persona 9: Diretor Executivo
 
-## Próximos Passos 🚀 
+* **Necessidades**: Apresentação final estruturada e validada previamente.
+* **Dores atendidas**: Entregas finais sem revisão formal.
 
-- **Melhorias planejadas após feedback**:
-  - Refinar os filtros de análise com base no feedback dos usuários.
-  - Melhorar a performance do sistema de integração com a ANTAQ.
+### Persona 10: Diretor Estratégico
 
-- **Ajustes de usabilidade**:
-  - Melhorar a responsividade dos dashboards para diferentes dispositivos e resoluções.
-  - Ajustar os layouts de Power BI para versão mobile com base nos testes.
+* **Necessidades**: Storytelling ensaiado para transmitir impacto.
+* **Dores atendidas**: Apresentações sem engajamento estratégico.
 
-- **Expansão de funcionalidades para próximo incremento**:
-  - Adicionar mais métricas e KPIs nos dashboards.
-  - Implementar alertas automáticos de desempenho para portos específicos.
+### Persona 11: Coordenador de Operações
+
+* **Necessidades**: Planejar retrospectiva final para avaliar aprendizados.
+* **Dores atendidas**: Ausência de reflexão estruturada ao final do processo.
+
+### Persona 12: Gerente de Eficiência Operacional
+
+* **Necessidades**: Painéis interativos com ranking dos portos.
+* **Dores atendidas**: Dificuldade em identificar portos mais produtivos.
+
+---
+
+## User Stories (Backlog da Sprint 3) 🔑
+
+* Como **engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização.
+* Como **gerente de projetos**, quero que melhorias e pendências sejam rastreadas em Jira, para acompanhar evolução do projeto.
+* Como **gerente de TI**, quero que a entrega final seja organizada em releases documentadas, para facilitar validação.
+* Como **coordenador de qualidade**, quero histórico das pendências fechadas no Jira, para acompanhar evolução.
+* Como **diretor comercial**, quero apresentações padronizadas (template único), para comunicação consistente da proposta.
+* Como **gerente de contas**, quero visualizar slides iniciais claros, para compreender a solução desde o começo.
+* Como **gerente de operações**, quero ver gráficos ilustrativos nos slides, para facilitar entendimento dos dados.
+* Como **diretor de marketing**, quero acompanhar storyboard das apresentações, para entender como será a comunicação final.
+* Como **diretor executivo**, quero assistir apresentação final estruturada, para julgar solução de forma clara.
+* Como **diretor estratégico**, quero que a equipe apresente storytelling bem ensaiado, para transmitir impacto.
+* Como **gerente de TI**, quero roteiro de navegação em diferentes dispositivos, para verificar responsividade.
+* Como **diretor de operações**, quero revisar as entregas finais, para garantir que apenas materiais consistentes sejam recebidos.
+* Como **gerente de operações**, quero dar feedback em cada versão apresentada pela equipe, para ajustar detalhes antes da entrega final.
+* Como **diretor executivo**, quero validar apresentação final antes da entrega oficial, para que a solução seja bem recebida.
+* Como **coordenador de operações**, quero planejar retrospectiva final, para avaliar aprendizado e melhorias do processo.
+* Como **gerente de eficiência operacional**, quero ver painéis interativos com ranking dos portos, para identificar os mais produtivos.
+
+---
+
+## Critérios de Aceitação 📊
+
+* Scripts devem estar limpos, documentados e versionados.
+* Todas as pendências devem ser registradas e rastreadas em Jira.
+* Releases finais precisam estar documentadas e acessíveis.
+* Histórico de pendências fechadas deve estar atualizado.
+* Apresentações devem seguir template único e padronizado.
+* Slides iniciais claros e com introdução estruturada.
+* Gráficos ilustrativos incluídos nos materiais.
+* Storyboard revisado e storytelling ensaiado.
+* Roteiro de navegação deve demonstrar responsividade em diferentes dispositivos.
+* Painéis interativos atualizados com ranking de portos.
+* Feedback deve ser registrado em cada versão apresentada.
+* A apresentação final deve ser validada por stakeholders antes da entrega oficial.
+
+---
+
+## 📂 Anexos / Evidências
+
+*(Em andamento)*
