@@ -97,4 +97,4 @@ O escopo inicial desta sprint inclui o registro de insights, a elaboração de r
 
 ## 📂 Anexos / Evidências
 
-*(Em andamento)*
+*(Em construção)*
