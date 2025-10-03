@@ -6,8 +6,6 @@ A Sprint 3 tem como objetivo consolidar a entrega final do projeto, garantindo o
 
 O valor entregue ao usuário final será uma entrega final estruturada, composta por scripts limpos e reutilizáveis, apresentações profissionais e releases documentadas, fortalecendo a percepção de qualidade e profissionalismo da solução.
 
----
-
 ## Descrição da Solução 📝
 
 A evolução do MVP nesta sprint estará focada na organização final das entregas, padronização da comunicação e validação de qualidade. As melhorias incluem a documentação dos scripts, rastreabilidade de pendências no Jira, criação de apresentações estruturadas e storytelling ensaiado para a apresentação final.
@@ -35,8 +33,6 @@ A evolução do MVP nesta sprint estará focada na organização final das entre
 ### Escopo reduzido
 
 O escopo inicial desta sprint foca na organização dos scripts, padronização dos slides e registro de pendências no Jira. Ensaios e storytelling detalhado podem ser refinados após feedback das primeiras apresentações.
-
----
 
 ## Personas / Usuários-Alvo 👥
 
@@ -100,8 +96,6 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 * **Necessidades**: Painéis interativos com ranking dos portos.
 * **Dores atendidas**: Dificuldade em identificar portos mais produtivos.
 
----
-
 ## User Stories (Backlog da Sprint 3) 🔑
 
 * Como **engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização.
@@ -121,8 +115,6 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 * Como **coordenador de operações**, quero planejar retrospectiva final, para avaliar aprendizado e melhorias do processo.
 * Como **gerente de eficiência operacional**, quero ver painéis interativos com ranking dos portos, para identificar os mais produtivos.
 
----
-
 ## Critérios de Aceitação 📊
 
 * Scripts devem estar limpos, documentados e versionados.
@@ -137,8 +129,6 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 * Painéis interativos atualizados com ranking de portos.
 * Feedback deve ser registrado em cada versão apresentada.
 * A apresentação final deve ser validada por stakeholders antes da entrega oficial.
-
----
 
 ## 📂 Anexos / Evidências
 
