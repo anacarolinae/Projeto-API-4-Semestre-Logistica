@@ -98,22 +98,7 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 
 ## User Stories (Backlog da Sprint 3) 🔑
 
-* Como **engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização.
-* Como **gerente de projetos**, quero que melhorias e pendências sejam rastreadas em Jira, para acompanhar evolução do projeto.
-* Como **gerente de TI**, quero que a entrega final seja organizada em releases documentadas, para facilitar validação.
-* Como **coordenador de qualidade**, quero histórico das pendências fechadas no Jira, para acompanhar evolução.
-* Como **diretor comercial**, quero apresentações padronizadas (template único), para comunicação consistente da proposta.
-* Como **gerente de contas**, quero visualizar slides iniciais claros, para compreender a solução desde o começo.
-* Como **gerente de operações**, quero ver gráficos ilustrativos nos slides, para facilitar entendimento dos dados.
-* Como **diretor de marketing**, quero acompanhar storyboard das apresentações, para entender como será a comunicação final.
-* Como **diretor executivo**, quero assistir apresentação final estruturada, para julgar solução de forma clara.
-* Como **diretor estratégico**, quero que a equipe apresente storytelling bem ensaiado, para transmitir impacto.
-* Como **gerente de TI**, quero roteiro de navegação em diferentes dispositivos, para verificar responsividade.
-* Como **diretor de operações**, quero revisar as entregas finais, para garantir que apenas materiais consistentes sejam recebidos.
-* Como **gerente de operações**, quero dar feedback em cada versão apresentada pela equipe, para ajustar detalhes antes da entrega final.
-* Como **diretor executivo**, quero validar apresentação final antes da entrega oficial, para que a solução seja bem recebida.
-* Como **coordenador de operações**, quero planejar retrospectiva final, para avaliar aprendizado e melhorias do processo.
-* Como **gerente de eficiência operacional**, quero ver painéis interativos com ranking dos portos, para identificar os mais produtivos.
+https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20III.png
 
 ## Critérios de Aceitação 📊
 
