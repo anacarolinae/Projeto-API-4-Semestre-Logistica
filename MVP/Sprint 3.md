@@ -142,4 +142,4 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 
 ## 📂 Anexos / Evidências
 
-*(Em andamento)*
+*(Em construção)*
