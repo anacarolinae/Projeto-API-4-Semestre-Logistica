@@ -74,7 +74,7 @@ O escopo inicial desta sprint inclui o registro de insights, a elaboração de r
 
 ## User Stories (Backlog da Sprint 2) 🔑
 
-https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20II.png
+<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20II.png" width="1500">
 
 ## Critérios de Aceitação 📊
 
