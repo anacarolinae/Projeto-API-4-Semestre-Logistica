@@ -61,11 +61,6 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 |3️⃣| 14/11/2025 | A fazer | [MVP](https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/Sprint%203.md) |
 |:rocket: Feira de Soluções| 04/12/2025 | A fazer | [MVP]() |
 
-> <a href="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Documentos/Apresenta%C3%A7%C3%A3o%20Sprint%201-%20Nexus%20Logistic.pdf" target="_blank" rel="noopener noreferrer">  <img src="https://img.icons8.com/fluency/96/pdf.png" alt="Abrir Apresentação" style="width10px; border-radius:10px; cursor:pointer;">
-</a>
-
-
-
 <br>
 
 ## Backlog das Sprints 📋
