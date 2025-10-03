@@ -98,7 +98,7 @@ O escopo inicial desta sprint foca na organização dos scripts, padronização 
 
 ## User Stories (Backlog da Sprint 3) 🔑
 
-https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20III.png
+<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20III.png" width="1500">
 
 ## Critérios de Aceitação 📊
 
