@@ -1,114 +1,100 @@
-#  MVP - Sprint 1 📌
+# MVP - Sprint 2 📌
 
-## Objetivo do MVP 🎯
+## Objetivo da Sprint 2 🎯
 
-### Qual problema resolve?
-O MVP resolve a necessidade de acesso, limpeza e análise eficiente dos dados da ANTAQ, proporcionando uma visão clara sobre o desempenho dos portos e operações logísticas. Ele permite que analistas e gestores obtenham insights para melhorar a eficiência dos processos e otimizar a alocação de recursos.
+A Sprint 2 tem como objetivo ampliar as funcionalidades do MVP, evoluindo de dashboards básicos para análises estratégicas, relatórios documentados e maior governança dos dados. Busca-se validar a hipótese de que, ao registrar insights, organizar metodologias e estruturar relatórios detalhados, os usuários terão suporte mais robusto para tomada de decisão estratégica, regulatória e operacional.
 
-### Qual hipótese será validada?
-A hipótese a ser validada é que, ao centralizar e analisar os dados de operações portuárias e cargas, será possível identificar portos mais produtivos, otimizar processos logísticos e tomar decisões estratégicas baseadas em dados precisos.
+O valor entregue ao usuário final será uma solução que não apenas apresenta métricas em tempo real, mas também garante rastreabilidade, transparência e documentação de todas as análises, fortalecendo a confiabilidade do sistema e preparando o ambiente para auditorias, compliance e decisões executivas.
 
-### Qual valor será entregue ao usuário final?
-O MVP proporcionará aos analistas de dados e gestores acesso a dashboards interativos e customizáveis, com filtros avançados e métricas de desempenho dos portos, permitindo uma tomada de decisão mais rápida e fundamentada, além de possibilitar ajustes operacionais em tempo real.
+## Descrição da Solução 📝
 
-
-## Descrição da Solução 📝 
-
-### Breve explicação do que será desenvolvido e entregue nesta etapa.
-Será desenvolvido um MVP de análise de dados que permite o acesso à base de dados da ANTAQ, com funcionalidades para normalizar e limpar os dados, calcular métricas de desempenho portuário e criar dashboards interativos no Power BI. O objetivo é validar a eficiência dos dashboards e ferramentas analíticas para usuários finais como analistas de dados, coordenadores de operações e gestores de logística.
+Será implementada a evolução do MVP com foco em relatórios, documentação metodológica, histórico de análises e governança do desenvolvimento. As melhorias incluem a geração de relatórios exploratórios, inclusão de glossário de variáveis, detalhamento das metodologias utilizadas e controle de versões dos scripts e datasets.
 
 ### Funcionalidades principais incluídas
-- Acesso e download de dados da ANTAQ via Colab.
-- Normalização e limpeza de dados (remoção de duplicados e nulos).
-- Cálculo de tempos médios de operação portuária.
-- Criação de dashboards no Power BI com métricas de desempenho.
-- Filtros avançados para personalização das análises.
-- Painéis interativos com ranking de eficiência dos portos.
-- Ajuste de layouts para versão mobile e diferentes resoluções de tela.
+
+* Registro dos insights estratégicos extraídos dos dashboards.
+* Relatórios detalhados com metodologias e análises documentadas.
+* Glossário de variáveis para facilitar a interpretação dos dados.
+* Inclusão de anexos com códigos e consultas usadas.
+* Relatório final consolidando resultados e conclusões.
+* Controle de versões de scripts e datasets.
+* Organização do processo em branches (main/dev) para confiabilidade.
 
 ### Limitações conhecidas
-- A quantidade de dados pode afetar a performance do sistema se não for bem otimizada.
-- O acesso aos dados da ANTAQ pode ser limitado por questões de atualização e disponibilidade.
-- A personalização do dashboard para diferentes dispositivos pode exigir ajustes adicionais após feedback.
 
-### Escopo reduzido (somente o essencial para validar a ideia)
-O escopo inicial inclui a implementação da integração com a ANTAQ, normalização dos dados, cálculo das métricas principais e a criação de dashboards básicos com filtros essenciais.
+* A criação de relatórios detalhados pode demandar mais tempo de revisão e validação.
+* O glossário e metodologias podem precisar de ajustes constantes devido à atualização dos dados.
+* A estrutura de versionamento exige disciplina da equipe para manter padrões organizacionais.
+
+### Escopo reduzido
+
+O escopo inicial desta sprint inclui o registro de insights, a elaboração de relatórios exploratórios básicos, a criação do glossário de variáveis e a implementação inicial do controle de versões. Relatórios finais executivos e anexos detalhados serão refinados em sprints posteriores conforme feedback.
 
 ## Personas / Usuários-Alvo 👥
 
-### Persona 1: Analista de Dados
-- **Necessidades**: Acessar e limpar dados de forma rápida, construir dashboards informativos para análise de performance portuária.
-- **Dores atendidas**: Falta de automação no tratamento de dados, dificuldade em acessar dados em tempo real.
+### Persona 1: Gerente de Planejamento
 
-### Persona 2: Coordenador de Operações
-- **Necessidades**: Acompanhar a eficiência dos portos e identificar gargalos operacionais.
-- **Dores atendidas**: Dificuldade em comparar o desempenho dos portos, ineficiência na alocação de recursos.
+* **Necessidades**: Acompanhar evolução de indicadores e identificar tendências.
+* **Dores atendidas**: Dificuldade em enxergar padrões e prever gargalos futuros.
 
+### Persona 2: Coordenador de Logística
 
-## User Stories (Backlog do MVP) 🔑 
+* **Necessidades**: Comparar desempenho entre portos e operações.
+* **Dores atendidas**: Falta de benchmarks confiáveis para embasar decisões.
 
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista de dados, quero acessar e baixar dados da ANTAQ via Colab, para iniciar o tratamento e análise. | Alta       | 5 pontos   |
-| US2 | Como analista de dados, quero normalizar e limpar a base (remover duplicados e nulos), para manter consistência. | Alta       | 5 pontos   |
-| US3 | Como analista de dados, quero calcular tempos médios de operação portuária, para avaliar eficiência. | Alta       | 5 pontos   |
-| US4 | Como analista de dados, quero construir o primeiro dashboard no Power BI, para ter visão geral de portos, cargas e operações. | Alta       | 5 pontos   |
-| US5 | Como analista de dados, quero implementar filtros avançados (período, tipo de carga), para análises personalizadas. | Média      | 3 pontos   |
-| US6 | Como analista de dados, quero criar painéis interativos com ranking de eficiência dos portos, para identificar portos mais produtivos. | Alta       | 5 pontos   |
-| US7 | Como analista de dados, quero testar dashboards em diferentes resoluções de tela, para identificar ajustes de responsividade. | Média      | 3 pontos   |
-| US8 | Como analista de dados, quero ajustar layouts do Power BI para versão mobile, para que usuários possam acessar via celular. | Média      | 3 pontos   |
-| US9 | Como coordenador de operações, quero validar dashboards em notebook, tablet e celular, para garantir boa visualização para todos os stakeholders. | Alta       | 5 pontos   |
-| US10 | Como gestor de operações, quero acompanhar o tempo médio de operação por porto, para identificar gargalos e otimizar processos. | Alta       | 5 pontos   |
-| US11 | Como coordenador de logística, quero comparar desempenho mensal de cada porto, para ajustar alocação de recursos. | Alta       | 5 pontos   |
-| US12 | Como diretor de logística, quero analisar tendências de carga ao longo do ano, para planejar investimentos estratégicos. | Alta       | 5 pontos   |
+### Persona 3: Gerente de Operações
 
+* **Necessidades**: Ter insights estratégicos registrados para consultas futuras.
+* **Dores atendidas**: Perda de informações relevantes ao longo do tempo.
 
-## Sprints Relacionadas 📅
+### Persona 4: Gerente Regulatório
 
-| Sprint | Entregas Principais                                               | Status      |
-|--------|--------------------------------------------------------------------|-------------|
-| 01     | Integração com a ANTAQ, normalização e limpeza de dados, cálculo de tempos médios de operação | Concluído   |
-| 02     | Criação de dashboards no Power BI, filtros avançados, ajustes para dispositivos móveis | Em andamento |
-| 03     | Validação de dashboards em diferentes dispositivos, análise de eficiência dos portos | Em andamento |
+* **Necessidades**: Relatórios com metodologias claras.
+* **Dores atendidas**: Falta de transparência nos processos analíticos.
 
+### Persona 5: Auditor Interno
 
-## Critérios de Aceitação  📊 
+* **Necessidades**: Relatórios exploratórios documentados para histórico.
+* **Dores atendidas**: Ausência de rastreabilidade em auditorias anteriores.
 
-- **O MVP deve permitir que o usuário**:
-  - Acesse e baixe dados atualizados da ANTAQ para análise.
-  - Realize a normalização e limpeza da base de dados com eficiência.
-  - Obtenha insights sobre a eficiência portuária por meio de dashboards interativos e filtros avançados.
+### Persona 6: Diretor Executivo
 
-- **O sistema deve registrar**:
-  - O tempo médio de operação por porto.
-  - A quantidade de dados processados e eventuais falhas no processo.
+* **Necessidades**: Relatório final com conclusões estratégicas.
+* **Dores atendidas**: Dificuldade em visualizar o impacto da solução na tomada de decisão.
 
-- **Métricas coletadas**:
-  - Tempo de resposta nas consultas de dados.
-  - Taxa de uso dos dashboards.
-  - Feedback qualitativo dos usuários finais (analistas, coordenadores e gestores).
+### Persona 7: Coordenador de TI
 
+* **Necessidades**: Controle de versões de scripts e datasets.
+* **Dores atendidas**: Desorganização em versões anteriores e falta de histórico confiável.
 
-## Métricas de Validação  📈
+### Persona 8: Gerente de Desenvolvimento
 
-- Número de usuários que testaram o MVP.
-- Feedback qualitativo (positivo/negativo) sobre a usabilidade dos dashboards e a precisão dos dados.
-- Indicadores de negócio: 
-  - % de adesão ao uso das ferramentas de análise.
-  - Redução de tempo gasto para coleta e análise de dados.
-  - Eficiência operacional medida pela redução de gargalos identificados nas operações portuárias.
+* **Necessidades**: Organização em branches (main/dev) no repositório.
+* **Dores atendidas**: Risco de falhas e inconsistências no processo de desenvolvimento.
 
+## User Stories (Backlog da Sprint 2) 🔑
 
-## Próximos Passos 🚀 
+* Como **gerente de planejamento**, quero acompanhar a evolução dos indicadores ao longo do tempo, para identificar tendências.
+* Como **coordenador de logística**, quero comparar desempenho entre portos e operações, para embasar decisões de gestão.
+* Como **gerente de operações**, quero que os insights estratégicos extraídos dos dashboards estejam registrados, para apoiar decisões futuras.
+* Como **gerente regulatório**, quero ter relatórios com metodologia detalhada, para compreender processos e decisões.
+* Como **coordenador técnico**, quero consultar glossário de variáveis, para facilitar interpretação dos dados.
+* Como **auditor interno**, quero relatórios com análises exploratórias documentadas, para manter histórico completo.
+* Como **gerente de compliance**, quero receber anexos com códigos e consultas usadas nos dashboards, para boa documentação detalhada.
+* Como **diretor executivo**, quero relatório final com resultados e conclusões, para avaliar a solução apresentada.
+* Como **coordenador de TI**, quero que haja controle de versões dos scripts e datasets, para garantir histórico organizado.
+* Como **gerente de desenvolvimento**, quero que haja organização em branches (main/dev), para manter confiabilidade no processo.
 
-- **Melhorias planejadas após feedback**:
-  - Refinar os filtros de análise com base no feedback dos usuários.
-  - Melhorar a performance do sistema de integração com a ANTAQ.
+## Critérios de Aceitação 📊
 
-- **Ajustes de usabilidade**:
-  - Melhorar a responsividade dos dashboards para diferentes dispositivos e resoluções.
-  - Ajustar os layouts de Power BI para versão mobile com base nos testes.
+* Os relatórios devem conter metodologias, análises e conclusões documentadas.
+* O glossário deve estar disponível e acessível aos usuários finais.
+* Todos os insights estratégicos extraídos dos dashboards devem ser registrados em histórico.
+* Deve haver anexos com códigos e consultas utilizados.
+* Relatório final deve consolidar métricas e conclusões estratégicas.
+* Scripts e datasets devem ter controle de versão ativo.
+* O repositório deve estar estruturado em branches (main/dev).
 
-- **Expansão de funcionalidades para próximo incremento**:
-  - Adicionar mais métricas e KPIs nos dashboards.
-  - Implementar alertas automáticos de desempenho para portos específicos.
+## 📂 Anexos / Evidências
+
+*(Em andamento)*
