@@ -74,16 +74,7 @@ O escopo inicial desta sprint inclui o registro de insights, a elaboração de r
 
 ## User Stories (Backlog da Sprint 2) 🔑
 
-* Como **gerente de planejamento**, quero acompanhar a evolução dos indicadores ao longo do tempo, para identificar tendências.
-* Como **coordenador de logística**, quero comparar desempenho entre portos e operações, para embasar decisões de gestão.
-* Como **gerente de operações**, quero que os insights estratégicos extraídos dos dashboards estejam registrados, para apoiar decisões futuras.
-* Como **gerente regulatório**, quero ter relatórios com metodologia detalhada, para compreender processos e decisões.
-* Como **coordenador técnico**, quero consultar glossário de variáveis, para facilitar interpretação dos dados.
-* Como **auditor interno**, quero relatórios com análises exploratórias documentadas, para manter histórico completo.
-* Como **gerente de compliance**, quero receber anexos com códigos e consultas usadas nos dashboards, para boa documentação detalhada.
-* Como **diretor executivo**, quero relatório final com resultados e conclusões, para avaliar a solução apresentada.
-* Como **coordenador de TI**, quero que haja controle de versões dos scripts e datasets, para garantir histórico organizado.
-* Como **gerente de desenvolvimento**, quero que haja organização em branches (main/dev), para manter confiabilidade no processo.
+https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20II.png
 
 ## Critérios de Aceitação 📊
 
