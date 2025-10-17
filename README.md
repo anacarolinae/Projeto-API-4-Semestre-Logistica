@@ -45,9 +45,11 @@ O produto final deve ser uma plataforma funcional, responsiva e intuitiva, apta 
 - Registro adequado de **DoR** (Definition of Ready) e **DoD** (Definition of Done)  
 
 ## Tecnologias Utilizadas 🚀 
-- **Google Colab** para normalização, limpeza e análise inicial dos dados (RN.P.1)   
-- **Power BI** para desenvolvimento do front-end (RN.P.3)  
-- **GitHub** para controle de versão dos artefatos de projeto (RN.P.4)  
+- **Google Colab** para normalização, limpeza e análise inicial dos dados.
+- **Power BI** para desenvolvimento do front-end.
+- **GitHub** para controle de versão dos artefatos de projeto.
+- **Jira Software** para administração das tarefas.
+- **Canva** para apresentação visual do projeto.
 
 <br>
 
