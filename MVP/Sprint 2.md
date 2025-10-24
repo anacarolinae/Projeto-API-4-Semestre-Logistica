@@ -1,91 +1,105 @@
-# MVP - Sprint 2 📌
+# MVP - Sprint 2 📌  
 
-## Objetivo da Sprint 2 🎯
+## Objetivo da Sprint 2 🎯  
 
-A Sprint 2 tem como objetivo ampliar as funcionalidades do MVP, evoluindo de dashboards básicos para análises estratégicas, relatórios documentados e maior governança dos dados. Busca-se validar a hipótese de que, ao registrar insights, organizar metodologias e estruturar relatórios detalhados, os usuários terão suporte mais robusto para tomada de decisão estratégica, regulatória e operacional.
+A Sprint 2 tem como objetivo ampliar as funcionalidades do MVP, focando no aprimoramento da governança de dados e documentação dos processos. O objetivo é evoluir de dashboards básicos para soluções mais robustas que proporcionem análises estratégicas, relatórios documentados e maior rastreabilidade dos dados.  
 
-O valor entregue ao usuário final será uma solução que não apenas apresenta métricas em tempo real, mas também garante rastreabilidade, transparência e documentação de todas as análises, fortalecendo a confiabilidade do sistema e preparando o ambiente para auditorias, compliance e decisões executivas.
+**Hipótese:** Ao registrar insights, organizar metodologias e estruturar relatórios detalhados, os usuários terão um suporte mais completo para tomada de decisão estratégica, regulatória e operacional.  
 
-## Descrição da Solução 📝
+**Valor entregue ao usuário final:** Uma solução que não apenas apresenta métricas em tempo real, mas também assegura rastreabilidade, transparência e documentação de todas as análises realizadas, fortalecendo a confiabilidade do sistema e preparando o ambiente para auditorias, compliance e decisões executivas.  
 
-Será implementada a evolução do MVP com foco em relatórios, documentação metodológica, histórico de análises e governança do desenvolvimento. As melhorias incluem a geração de relatórios exploratórios, inclusão de glossário de variáveis, detalhamento das metodologias utilizadas e controle de versões dos scripts e datasets.
+## Descrição da Solução 📝  
 
-### Funcionalidades principais incluídas
+A evolução do MVP será focada em melhorias de governança, documentação e organização de dados. As funcionalidades principais incluem:  
 
-* Registro dos insights estratégicos extraídos dos dashboards.
-* Relatórios detalhados com metodologias e análises documentadas.
-* Glossário de variáveis para facilitar a interpretação dos dados.
-* Inclusão de anexos com códigos e consultas usadas.
-* Relatório final consolidando resultados e conclusões.
-* Controle de versões de scripts e datasets.
-* Organização do processo em branches (main/dev) para confiabilidade.
+- Registro de insights estratégicos extraídos dos dashboards para consulta futura.  
+- Relatórios detalhados com metodologias, análises e conclusões documentadas.  
+- Glossário de variáveis para facilitar a interpretação dos dados.  
+- Inclusão de anexos com códigos e consultas utilizadas nas análises.  
+- Relatório final consolidando resultados e conclusões estratégicas.  
+- Controle de versões de scripts e datasets para garantir integridade e rastreabilidade.  
+- Organização do processo de desenvolvimento em branches (main/dev) para confiabilidade na entrega.  
 
-### Limitações conhecidas
+## Funcionalidades principais incluídas  
 
-* A criação de relatórios detalhados pode demandar mais tempo de revisão e validação.
-* O glossário e metodologias podem precisar de ajustes constantes devido à atualização dos dados.
-* A estrutura de versionamento exige disciplina da equipe para manter padrões organizacionais.
+- **Registro de Insights Estratégicos:** Extração e registro de informações valiosas dos dashboards para futuras consultas.  
+- **Relatórios Detalhados:** Geração de relatórios com metodologias claras e documentação das análises realizadas.  
+- **Glossário de Variáveis:** Implementação de um glossário para garantir entendimento claro dos dados analisados.  
+- **Inclusão de Anexos:** Anexar scripts, códigos e consultas que deram origem às análises.  
+- **Relatório Final Consolidado:** Compilação de todas as métricas e conclusões estratégicas em um único documento.  
+- **Controle de Versões de Scripts e Datasets:** Implementação do controle de versão para assegurar que todas as mudanças sejam rastreáveis.  
+- **Estrutura de Repositório (main/dev):** Organização do código em diferentes branches para garantir uma boa governança de desenvolvimento.
+  
+## Limitações conhecidas  
 
-### Escopo reduzido
+- **Criação de relatórios detalhados:** Pode exigir mais tempo para revisão e validação de conteúdos.  
+- **Glossário e metodologias:** Precisam ser ajustados constantemente conforme os dados e a evolução do sistema.  
+- **Controle de versões:** Requer disciplina para manter a consistência e organização da equipe.  
 
-O escopo inicial desta sprint inclui o registro de insights, a elaboração de relatórios exploratórios básicos, a criação do glossário de variáveis e a implementação inicial do controle de versões. Relatórios finais executivos e anexos detalhados serão refinados em sprints posteriores conforme feedback.
+## Escopo Reduzido  
 
-## Personas / Usuários-Alvo 👥
+O escopo inicial da Sprint 2 inclui:  
 
-### Persona 1: Gerente de Planejamento
+- Registro de insights estratégicos.  
+- Geração de relatórios exploratórios básicos.  
+- Criação do glossário de variáveis.  
+- Implementação inicial de controle de versões de scripts e datasets.  
 
-* **Necessidades**: Acompanhar evolução de indicadores e identificar tendências.
-* **Dores atendidas**: Dificuldade em enxergar padrões e prever gargalos futuros.
+Relatórios finais e anexos detalhados serão refinados nas próximas sprints, com base no feedback dos usuários.  
 
-### Persona 2: Coordenador de Logística
+## Personas / Usuários-Alvo 👥  
 
-* **Necessidades**: Comparar desempenho entre portos e operações.
-* **Dores atendidas**: Falta de benchmarks confiáveis para embasar decisões.
+**Gerente de Planejamento**  
+- *Necessidades:* Acompanhar a evolução de indicadores e identificar tendências.  
+- *Dores atendidas:* Dificuldade em identificar padrões e prever gargalos.  
 
-### Persona 3: Gerente de Operações
+**Coordenador de Logística**  
+- *Necessidades:* Comparar desempenho entre portos e operações.  
+- *Dores atendidas:* Falta de benchmarks confiáveis.  
 
-* **Necessidades**: Ter insights estratégicos registrados para consultas futuras.
-* **Dores atendidas**: Perda de informações relevantes ao longo do tempo.
+**Gerente de Operações**  
+- *Necessidades:* Registrar insights estratégicos para decisões futuras.  
+- *Dores atendidas:* Perda de informações ao longo do tempo.  
 
-### Persona 4: Gerente Regulatório
+**Gerente Regulatório**  
+- *Necessidades:* Relatórios detalhados com metodologias claras.  
+- *Dores atendidas:* Falta de transparência no processo analítico.  
 
-* **Necessidades**: Relatórios com metodologias claras.
-* **Dores atendidas**: Falta de transparência nos processos analíticos.
+**Auditor Interno**  
+- *Necessidades:* Relatórios documentados e rastreáveis.  
+- *Dores atendidas:* Ausência de histórico para auditorias.  
 
-### Persona 5: Auditor Interno
+**Diretor Executivo**  
+- *Necessidades:* Relatório final consolidando conclusões estratégicas.  
+- *Dores atendidas:* Dificuldade em entender o impacto de soluções na decisão executiva.  
 
-* **Necessidades**: Relatórios exploratórios documentados para histórico.
-* **Dores atendidas**: Ausência de rastreabilidade em auditorias anteriores.
+**Coordenador de TI**  
+- *Necessidades:* Controle de versões de scripts e datasets.  
+- *Dores atendidas:* Desorganização nas versões anteriores.  
 
-### Persona 6: Diretor Executivo
+**Gerente de Desenvolvimento**  
+- *Necessidades:* Organizar repositórios em branches (main/dev).  
+- *Dores atendidas:* Risco de falhas devido à falta de controle na estrutura de desenvolvimento.  
 
-* **Necessidades**: Relatório final com conclusões estratégicas.
-* **Dores atendidas**: Dificuldade em visualizar o impacto da solução na tomada de decisão.
+## User Stories (Backlog da Sprint 2) 🔑  
 
-### Persona 7: Coordenador de TI
+- Como gerente de planejamento, quero visualizar informações do setor agro para analisar e planejar melhor as operações.  
+- Como gerente de planejamento, quero acompanhar a evolução dos indicadores, para identificar tendências.  
+- Como gerente de planejamento, quero monitorar mudanças no clima para antecipar impactos nas operações.  
+- Como gerente de planejamento, quero saber qual terminal tem mais paradas por conta do clima para poder tomar decisões preventivas.  
+- Como gerente de planejamento, quero filtrar por porto com sugestões automáticas para encontrar rapidamente o porto desejado.  
+- Como coordenador de logística, quero comparar desempenho entre portos e operações, para embasar decisões de gestão.  
+- Como gerente de operações, quero que os insights estratégicos extraídos dos dashboards estejam registrados, para apoiar decisões futuras.  
+- Como gerente regulatório, quero ter relatórios com metodologia detalhada, para compreender processos e decisões.  
+- Como coordenador técnico, quero consultar glossário de variáveis, para facilitar interpretação dos dados.  
+- Como diretor executivo, quero relatório final com resultados e conclusões, para avaliar a solução apresentada.  
 
-* **Necessidades**: Controle de versões de scripts e datasets.
-* **Dores atendidas**: Desorganização em versões anteriores e falta de histórico confiável.
+## Critérios de Aceitação 📊  
 
-### Persona 8: Gerente de Desenvolvimento
-
-* **Necessidades**: Organização em branches (main/dev) no repositório.
-* **Dores atendidas**: Risco de falhas e inconsistências no processo de desenvolvimento.
-
-## User Stories (Backlog da Sprint 2) 🔑
-
-<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Backlog%20Sprint%20II.png" width="1500">
-
-## Critérios de Aceitação 📊
-
-* Os relatórios devem conter metodologias, análises e conclusões documentadas.
-* O glossário deve estar disponível e acessível aos usuários finais.
-* Todos os insights estratégicos extraídos dos dashboards devem ser registrados em histórico.
-* Deve haver anexos com códigos e consultas utilizados.
-* Relatório final deve consolidar métricas e conclusões estratégicas.
-* Scripts e datasets devem ter controle de versão ativo.
-* O repositório deve estar estruturado em branches (main/dev).
-
-## 📂 Anexos / Evidências
-
-*(Em construção)*
+- Relatórios devem conter metodologias, análises e conclusões bem documentadas.  
+- Glossário de variáveis deve ser acessível e compreensível para todos os usuários.  
+- Insights estratégicos extraídos dos dashboards devem ser registrados de forma organizada.  
+- Anexos contendo códigos e consultas utilizados nas análises devem estar disponíveis.  
+- Relatório final deve consolidar resultados, métricas e conclusões de forma clara e objetiva.  
+- Controle de versão de scripts e datasets deve ser ativo e eficaz.  
+- O repositório deve estar estruturado em branches (main/dev) para garantir organização e confiabilidade no desenvolvimento.  
