@@ -1,6 +1,6 @@
 # **Nexus Logística**
 <p align="center">
-<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Logo%20Nexus%20Log%C3%ADstica.jpeg" width="400">
+<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/Imagens/Logo.jpeg" width="400">
   
   
 <br>
