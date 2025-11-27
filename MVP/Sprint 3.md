@@ -81,7 +81,37 @@ Inclui:
 
 ## User Stories – Backlog da Sprint 3 🔑 
 
-> (Inserir aqui as histórias 23 a 37, caso deseje listá-las explicitamente.)
+## User Stories – Sprint 3 🧩 
+
+- **Como engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização.
+
+- **Como gerente de projetos**, quero que melhorias e pendências sejam rastreadas em Jira, para acompanhar evolução do projeto.
+
+- **Como gerente de TI**, quero que a entrega final seja organizada em releases documentadas, para facilitar validação.
+
+- **Como coordenador de qualidade**, quero histórico das pendências fechadas no Jira, para acompanhar evolução.
+
+- **Como diretor comercial**, quero apresentações padronizadas (template único), para comunicação consistente da proposta.
+
+- **Como gerente de contas**, quero visualizar slides iniciais claros, para compreender a solução desde o começo.
+
+- **Como gerente de operações**, quero ver gráficos ilustrativos nos slides, para facilitar entendimento dos dados.
+
+- **Como diretor de marketing**, quero acompanhar o storyboard das apresentações, para entender como será a comunicação final.
+
+- **Como diretor executivo**, quero assistir à apresentação final estruturada, para julgar a solução de forma clara.
+
+- **Como diretor estratégico**, quero que a equipe apresente storytelling bem ensaiado, para transmitir impacto.
+
+- **Como diretor de operações**, quero revisar as entregas finais, para garantir que apenas materiais consistentes sejam recebidos.
+
+- **Como gerente de operações**, quero dar feedback em cada versão apresentada pela equipe, para ajustar detalhes antes da entrega final.
+
+- **Como diretor executivo**, quero validar a apresentação final antes da entrega oficial, para que a solução seja bem recebida.
+
+- **Como coordenador de operações**, quero planejar a retrospectiva final, para avaliar aprendizados e melhorias do processo.
+
+- **Como gerente de eficiência operacional**, quero ver painéis interativos com ranking dos portos, para identificar os mais produtivos.
 
 ## Critérios de Aceitação 📊 
 
