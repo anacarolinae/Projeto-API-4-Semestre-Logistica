@@ -1,6 +1,6 @@
-# 🚀 MVP – Sprint 3
-
-## 📌 Objetivo da Sprint 3
+# MVP – Sprint 3 📌
+ 
+## Objetivo da Sprint 3 🎯  
 
 A Sprint 3 tem como foco consolidar a entrega final do MVP, garantindo organização, qualidade e clareza na comunicação da solução.  
 O objetivo é estruturar scripts, releases, materiais de apresentação e evidências, além de padronizar o storytelling para que stakeholders executivos compreendam facilmente o valor do projeto.
@@ -9,7 +9,7 @@ Outro ponto essencial é o acompanhamento da evolução do projeto via Jira, reg
 
 Ao final desta sprint, espera-se validar que o MVP está pronto para apresentação profissional, com documentação clara, painéis funcionais e artefatos consistentes para avaliação dos diretores.
 
-## 📝 Descrição da Solução
+## Descrição da Solução 📝 
 
 Nesta etapa, todas as entregas técnicas e comunicacionais serão organizadas:
 
@@ -25,7 +25,7 @@ Nesta etapa, todas as entregas técnicas e comunicacionais serão organizadas:
   - histórico de atividades,
   - evolução até a entrega final.
 
-## 🔧 Funcionalidades Principais Incluídas
+## Funcionalidades Principais Incluídas 🔧 
 
 - Documentação e limpeza dos scripts finais.  
 - Organização das releases documentadas com versionamento.  
@@ -42,14 +42,14 @@ Nesta etapa, todas as entregas técnicas e comunicacionais serão organizadas:
 - Preparação da retrospectiva final da equipe.  
 - Exibição de dashboards com ranking de portos produtivos.
 
-## ⚠️ Limitações Conhecidas
+## Limitações Conhecidas ⚠️ 
 
 - Refinamento dos scripts pode demandar mais tempo se houver inconsistências herdadas.  
 - Padronização dos materiais depende de múltiplos stakeholders, podendo gerar retrabalho.  
 - Validação executiva pode exigir versões adicionais dos slides.  
 - Gráficos ilustrativos podem precisar de ajustes após feedback.
 
-## 📚 Escopo da Sprint
+## Escopo da Sprint  📚
 
 Inclui:
 
@@ -61,7 +61,7 @@ Inclui:
 - Inclusão do dashboard final com ranking dos portos.  
 - Revisões e validação final com diretoria.
 
-## 👥 Personas / Usuários-Alvo
+## Personas / Usuários-Alvo 👥
 
 ### **Persona 1 – Engenheiro de Software**
 - **Necessidades:** Scripts limpos, padronizados e documentados.  
@@ -79,11 +79,11 @@ Inclui:
 - **Necessidades:** Histórico do Jira e revisões das entregas.  
 - **Dores atendidas:** Baixa previsibilidade e organização.
 
-## 🔑 User Stories – Backlog da Sprint 3
+## User Stories – Backlog da Sprint 3 🔑 
 
 > (Inserir aqui as histórias 23 a 37, caso deseje listá-las explicitamente.)
 
-## 📊 Critérios de Aceitação
+## Critérios de Aceitação 📊 
 
 A Sprint 3 será considerada concluída quando:
 
@@ -95,4 +95,4 @@ A Sprint 3 será considerada concluída quando:
 - Dashboard incluir ranking interativo dos portos.  
 - Retrospectiva final for realizada e registrada.
 
-## 📂 Anexos / Evidências
+## Anexos / Evidências 📂 
