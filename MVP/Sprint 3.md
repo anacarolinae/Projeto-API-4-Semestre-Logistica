@@ -125,4 +125,4 @@ A Sprint 3 será considerada concluída quando:
 
 ## Anexos / Evidências 📂 
 
-<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/MVP%20Sprint%203.1.jpeg" width="1000">
+<img src="https://github.com/anacarolinae/Projeto-API-4-Semestre-Logistica/blob/main/MVP/GIF%20Sprint%203.gif" width="1000">
