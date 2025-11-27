@@ -20,7 +20,7 @@ A evolução do MVP será focada em melhorias de governança, documentação e o
 - Controle de versões de scripts e datasets para garantir integridade e rastreabilidade.  
 - Organização do processo de desenvolvimento em branches (main/dev) para confiabilidade na entrega.  
 
-## Funcionalidades principais incluídas  
+## Funcionalidades principais incluídas 🔧 
 
 - **Registro de Insights Estratégicos:** Extração e registro de informações valiosas dos dashboards para futuras consultas.  
 - **Relatórios Detalhados:** Geração de relatórios com metodologias claras e documentação das análises realizadas.  
@@ -30,13 +30,13 @@ A evolução do MVP será focada em melhorias de governança, documentação e o
 - **Controle de Versões de Scripts e Datasets:** Implementação do controle de versão para assegurar que todas as mudanças sejam rastreáveis.  
 - **Estrutura de Repositório (main/dev):** Organização do código em diferentes branches para garantir uma boa governança de desenvolvimento.
   
-## Limitações conhecidas  
+## Limitações conhecidas ⚠️ 
 
 - **Criação de relatórios detalhados:** Pode exigir mais tempo para revisão e validação de conteúdos.  
 - **Glossário e metodologias:** Precisam ser ajustados constantemente conforme os dados e a evolução do sistema.  
 - **Controle de versões:** Requer disciplina para manter a consistência e organização da equipe.  
 
-## Escopo Reduzido  
+## Escopo Reduzido 📚
 
 O escopo inicial da Sprint 2 inclui:  
 
@@ -102,4 +102,6 @@ Relatórios finais e anexos detalhados serão refinados nas próximas sprints, c
 - Anexos contendo códigos e consultas utilizados nas análises devem estar disponíveis.  
 - Relatório final deve consolidar resultados, métricas e conclusões de forma clara e objetiva.  
 - Controle de versão de scripts e datasets deve ser ativo e eficaz.  
-- O repositório deve estar estruturado em branches (main/dev) para garantir organização e confiabilidade no desenvolvimento.  
+- O repositório deve estar estruturado em branches (main/dev) para garantir organização e confiabilidade no desenvolvimento.
+
+  ## Anexos / Evidências 📂 
