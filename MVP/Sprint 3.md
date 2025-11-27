@@ -79,8 +79,6 @@ Inclui:
 - **Necessidades:** Histórico do Jira e revisões das entregas.  
 - **Dores atendidas:** Baixa previsibilidade e organização.
 
-## User Stories – Backlog da Sprint 3 🔑 
-
 ## User Stories – Sprint 3 🧩 
 
 - **Como engenheiro de software**, quero que os scripts finais estejam limpos e documentados, para facilitar reutilização.
